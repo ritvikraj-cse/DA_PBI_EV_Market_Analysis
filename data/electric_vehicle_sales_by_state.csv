@@ -1,0 +1,2446 @@
+﻿date,state,vehicle_category,electric_vehicles_sold,total_vehicles_sold
+2021-04-01,Sikkim,2-Wheelers,0,398
+2021-04-01,Sikkim,4-Wheelers,0,361
+2021-05-01,Sikkim,2-Wheelers,0,113
+2021-05-01,Sikkim,4-Wheelers,0,98
+2021-06-01,Sikkim,2-Wheelers,0,229
+2021-06-01,Sikkim,4-Wheelers,0,244
+2021-07-01,Sikkim,2-Wheelers,0,458
+2021-07-01,Sikkim,4-Wheelers,0,452
+2021-08-01,Sikkim,2-Wheelers,0,489
+2021-08-01,Sikkim,4-Wheelers,0,408
+2021-09-01,Sikkim,2-Wheelers,0,540
+2021-09-01,Sikkim,4-Wheelers,0,355
+2021-10-01,Sikkim,2-Wheelers,0,455
+2021-10-01,Sikkim,4-Wheelers,0,345
+2021-11-01,Sikkim,2-Wheelers,0,478
+2021-11-01,Sikkim,4-Wheelers,0,351
+2021-12-01,Sikkim,2-Wheelers,0,454
+2021-12-01,Sikkim,4-Wheelers,0,394
+2022-01-01,Sikkim,2-Wheelers,0,400
+2022-01-01,Sikkim,4-Wheelers,0,270
+2022-02-01,Sikkim,2-Wheelers,0,384
+2022-02-01,Sikkim,4-Wheelers,0,371
+2022-03-01,Sikkim,2-Wheelers,0,460
+2022-03-01,Sikkim,4-Wheelers,0,390
+2022-04-01,Sikkim,2-Wheelers,0,455
+2022-04-01,Sikkim,4-Wheelers,0,380
+2022-05-01,Sikkim,2-Wheelers,0,461
+2022-05-01,Sikkim,4-Wheelers,0,421
+2022-06-01,Sikkim,2-Wheelers,0,429
+2022-06-01,Sikkim,4-Wheelers,0,446
+2022-07-01,Sikkim,2-Wheelers,0,409
+2022-07-01,Sikkim,4-Wheelers,0,439
+2022-08-01,Sikkim,2-Wheelers,0,394
+2022-08-01,Sikkim,4-Wheelers,0,421
+2022-09-01,Sikkim,2-Wheelers,0,443
+2022-09-01,Sikkim,4-Wheelers,0,581
+2022-10-01,Sikkim,2-Wheelers,0,371
+2022-10-01,Sikkim,4-Wheelers,0,340
+2022-11-01,Sikkim,2-Wheelers,0,431
+2022-11-01,Sikkim,4-Wheelers,0,411
+2022-12-01,Sikkim,2-Wheelers,0,274
+2022-12-01,Sikkim,4-Wheelers,0,288
+2023-01-01,Sikkim,2-Wheelers,0,470
+2023-01-01,Sikkim,4-Wheelers,0,420
+2023-02-01,Sikkim,2-Wheelers,0,324
+2023-02-01,Sikkim,4-Wheelers,0,364
+2023-03-01,Sikkim,2-Wheelers,0,454
+2023-03-01,Sikkim,4-Wheelers,0,505
+2023-04-01,Sikkim,2-Wheelers,0,465
+2023-04-01,Sikkim,4-Wheelers,0,439
+2023-05-01,Sikkim,2-Wheelers,0,507
+2023-05-01,Sikkim,4-Wheelers,0,448
+2023-06-01,Sikkim,2-Wheelers,0,517
+2023-06-01,Sikkim,4-Wheelers,0,457
+2023-07-01,Sikkim,2-Wheelers,0,423
+2023-07-01,Sikkim,4-Wheelers,0,371
+2023-08-01,Sikkim,2-Wheelers,0,465
+2023-08-01,Sikkim,4-Wheelers,0,460
+2023-09-01,Sikkim,2-Wheelers,0,546
+2023-09-01,Sikkim,4-Wheelers,0,509
+2023-10-01,Sikkim,2-Wheelers,0,398
+2023-10-01,Sikkim,4-Wheelers,0,389
+2023-11-01,Sikkim,2-Wheelers,0,470
+2023-11-01,Sikkim,4-Wheelers,0,403
+2023-12-01,Sikkim,2-Wheelers,0,365
+2023-12-01,Sikkim,4-Wheelers,0,318
+2024-01-01,Sikkim,2-Wheelers,0,509
+2024-01-01,Sikkim,4-Wheelers,0,422
+2024-02-01,Sikkim,2-Wheelers,0,408
+2024-02-01,Sikkim,4-Wheelers,0,375
+2024-03-01,Sikkim,2-Wheelers,0,399
+2024-03-01,Sikkim,4-Wheelers,0,455
+2021-04-01,Andaman & Nicobar Island,2-Wheelers,0,515
+2021-04-01,Arunachal Pradesh,2-Wheelers,0,1256
+2021-04-01,Arunachal Pradesh,4-Wheelers,0,724
+2021-04-01,Assam,4-Wheelers,0,6576
+2021-04-01,Chhattisgarh,4-Wheelers,0,1563
+2021-04-01,DNH and DD,4-Wheelers,0,278
+2021-04-01,Jammu and Kashmir,4-Wheelers,0,5107
+2021-04-01,Ladakh,2-Wheelers,0,2
+2021-04-01,Ladakh,4-Wheelers,0,20
+2021-04-01,Manipur,4-Wheelers,0,808
+2021-04-01,Meghalaya,2-Wheelers,0,1189
+2021-04-01,Mizoram,2-Wheelers,0,1507
+2021-04-01,Mizoram,4-Wheelers,0,281
+2021-04-01,Nagaland,2-Wheelers,0,561
+2021-04-01,Nagaland,4-Wheelers,0,747
+2021-04-01,Puducherry,4-Wheelers,0,655
+2021-04-01,Tripura,2-Wheelers,0,2906
+2021-04-01,Tripura,4-Wheelers,0,289
+2021-05-01,Andaman & Nicobar Island,2-Wheelers,0,4
+2021-05-01,Andaman & Nicobar Island,4-Wheelers,0,1
+2021-05-01,Arunachal Pradesh,2-Wheelers,0,552
+2021-05-01,Arunachal Pradesh,4-Wheelers,0,302
+2021-05-01,Assam,2-Wheelers,0,14723
+2021-05-01,Assam,4-Wheelers,0,3295
+2021-05-01,Bihar,4-Wheelers,0,2249
+2021-05-01,Chandigarh,2-Wheelers,0,411
+2021-05-01,Chhattisgarh,4-Wheelers,0,1387
+2021-05-01,DNH and DD,2-Wheelers,0,452
+2021-05-01,DNH and DD,4-Wheelers,0,202
+2021-05-01,Delhi,2-Wheelers,0,22
+2021-05-01,Delhi,4-Wheelers,0,21
+2021-05-01,Jammu and Kashmir,4-Wheelers,0,2372
+2021-05-01,Ladakh,2-Wheelers,0,11
+2021-05-01,Ladakh,4-Wheelers,0,70
+2021-05-01,Madhya Pradesh,4-Wheelers,0,195
+2021-05-01,Manipur,2-Wheelers,0,288
+2021-05-01,Manipur,4-Wheelers,0,9
+2021-05-01,Meghalaya,2-Wheelers,0,332
+2021-05-01,Mizoram,2-Wheelers,0,15
+2021-05-01,Mizoram,4-Wheelers,0,4
+2021-05-01,Nagaland,2-Wheelers,0,125
+2021-05-01,Nagaland,4-Wheelers,0,126
+2021-05-01,Odisha,4-Wheelers,0,722
+2021-05-01,Punjab,4-Wheelers,0,5202
+2021-05-01,Tripura,2-Wheelers,0,2063
+2021-05-01,Tripura,4-Wheelers,0,192
+2021-05-01,Uttarakhand,4-Wheelers,0,1145
+2021-06-01,Andaman & Nicobar Island,2-Wheelers,0,2
+2021-06-01,Arunachal Pradesh,2-Wheelers,0,727
+2021-06-01,Arunachal Pradesh,4-Wheelers,0,565
+2021-06-01,Ladakh,2-Wheelers,0,3
+2021-06-01,Ladakh,4-Wheelers,0,112
+2021-06-01,Manipur,2-Wheelers,0,89
+2021-06-01,Manipur,4-Wheelers,0,18
+2021-06-01,Meghalaya,2-Wheelers,0,354
+2021-06-01,Meghalaya,4-Wheelers,0,246
+2021-06-01,Mizoram,2-Wheelers,0,648
+2021-06-01,Mizoram,4-Wheelers,0,298
+2021-06-01,Nagaland,2-Wheelers,0,42
+2021-06-01,Nagaland,4-Wheelers,0,54
+2021-06-01,Puducherry,4-Wheelers,0,445
+2021-06-01,Tripura,4-Wheelers,0,185
+2021-07-01,Andaman & Nicobar Island,2-Wheelers,0,467
+2021-07-01,Arunachal Pradesh,2-Wheelers,0,994
+2021-07-01,Arunachal Pradesh,4-Wheelers,0,661
+2021-07-01,Assam,4-Wheelers,0,4988
+2021-07-01,DNH and DD,4-Wheelers,0,276
+2021-07-01,Ladakh,2-Wheelers,0,51
+2021-07-01,Ladakh,4-Wheelers,0,552
+2021-07-01,Manipur,2-Wheelers,0,474
+2021-07-01,Manipur,4-Wheelers,0,68
+2021-07-01,Meghalaya,2-Wheelers,0,726
+2021-07-01,Mizoram,2-Wheelers,0,1096
+2021-07-01,Mizoram,4-Wheelers,0,219
+2021-07-01,Nagaland,2-Wheelers,0,583
+2021-07-01,Nagaland,4-Wheelers,0,1039
+2021-07-01,Puducherry,4-Wheelers,0,866
+2021-07-01,Tripura,2-Wheelers,0,2211
+2021-07-01,Tripura,4-Wheelers,0,352
+2021-08-01,Andaman & Nicobar Island,2-Wheelers,0,406
+2021-08-01,Arunachal Pradesh,2-Wheelers,0,1126
+2021-08-01,Arunachal Pradesh,4-Wheelers,0,758
+2021-08-01,DNH and DD,4-Wheelers,0,321
+2021-08-01,Himachal Pradesh,4-Wheelers,0,3641
+2021-08-01,Jammu and Kashmir,4-Wheelers,0,5430
+2021-08-01,Ladakh,2-Wheelers,0,30
+2021-08-01,Ladakh,4-Wheelers,0,459
+2021-08-01,Manipur,2-Wheelers,0,1016
+2021-08-01,Manipur,4-Wheelers,0,561
+2021-08-01,Meghalaya,2-Wheelers,0,1041
+2021-08-01,Meghalaya,4-Wheelers,0,826
+2021-08-01,Mizoram,2-Wheelers,0,1057
+2021-08-01,Mizoram,4-Wheelers,0,240
+2021-08-01,Nagaland,2-Wheelers,0,577
+2021-08-01,Nagaland,4-Wheelers,0,763
+2021-08-01,Tripura,2-Wheelers,0,2462
+2021-08-01,Tripura,4-Wheelers,0,462
+2021-09-01,Andaman & Nicobar Island,2-Wheelers,0,329
+2021-09-01,Andaman & Nicobar Island,4-Wheelers,0,87
+2021-09-01,Arunachal Pradesh,2-Wheelers,0,1260
+2021-09-01,Arunachal Pradesh,4-Wheelers,0,637
+2021-09-01,Assam,4-Wheelers,0,6036
+2021-09-01,DNH and DD,4-Wheelers,0,348
+2021-09-01,Ladakh,2-Wheelers,0,26
+2021-09-01,Ladakh,4-Wheelers,0,444
+2021-09-01,Manipur,2-Wheelers,0,3492
+2021-09-01,Manipur,4-Wheelers,0,1202
+2021-09-01,Meghalaya,2-Wheelers,0,1396
+2021-09-01,Meghalaya,4-Wheelers,0,905
+2021-09-01,Mizoram,2-Wheelers,0,1465
+2021-09-01,Mizoram,4-Wheelers,0,264
+2021-09-01,Nagaland,4-Wheelers,0,681
+2021-09-01,Tripura,2-Wheelers,0,2736
+2021-09-01,Tripura,4-Wheelers,0,403
+2021-10-01,Andaman & Nicobar Island,2-Wheelers,0,360
+2021-10-01,Arunachal Pradesh,2-Wheelers,0,1109
+2021-10-01,Arunachal Pradesh,4-Wheelers,0,570
+2021-10-01,Assam,4-Wheelers,0,5877
+2021-10-01,Ladakh,4-Wheelers,0,289
+2021-10-01,Manipur,4-Wheelers,0,916
+2021-10-01,Meghalaya,2-Wheelers,0,1414
+2021-10-01,Meghalaya,4-Wheelers,0,722
+2021-10-01,Mizoram,2-Wheelers,0,1886
+2021-10-01,Mizoram,4-Wheelers,0,283
+2021-10-01,Nagaland,2-Wheelers,0,650
+2021-10-01,Nagaland,4-Wheelers,0,567
+2021-10-01,Puducherry,4-Wheelers,0,609
+2021-10-01,Tripura,2-Wheelers,0,3015
+2021-10-01,Tripura,4-Wheelers,0,366
+2021-11-01,Andaman & Nicobar Island,2-Wheelers,0,413
+2021-11-01,Andaman & Nicobar Island,4-Wheelers,0,125
+2021-11-01,Arunachal Pradesh,2-Wheelers,0,1262
+2021-11-01,Arunachal Pradesh,4-Wheelers,0,646
+2021-11-01,Assam,4-Wheelers,0,5618
+2021-11-01,DNH and DD,4-Wheelers,0,330
+2021-11-01,Himachal Pradesh,4-Wheelers,0,4496
+2021-11-01,Jammu and Kashmir,4-Wheelers,0,4709
+2021-11-01,Ladakh,2-Wheelers,0,28
+2021-11-01,Ladakh,4-Wheelers,0,287
+2021-11-01,Manipur,4-Wheelers,0,875
+2021-11-01,Meghalaya,2-Wheelers,0,1442
+2021-11-01,Meghalaya,4-Wheelers,0,806
+2021-11-01,Mizoram,2-Wheelers,0,1820
+2021-11-01,Mizoram,4-Wheelers,0,328
+2021-11-01,Nagaland,2-Wheelers,0,592
+2021-11-01,Nagaland,4-Wheelers,0,692
+2021-11-01,Tripura,2-Wheelers,0,3843
+2021-11-01,Tripura,4-Wheelers,0,326
+2021-12-01,Andaman & Nicobar Island,2-Wheelers,0,376
+2021-12-01,Arunachal Pradesh,2-Wheelers,0,1036
+2021-12-01,Arunachal Pradesh,4-Wheelers,0,709
+2021-12-01,Jammu and Kashmir,4-Wheelers,0,5306
+2021-12-01,Ladakh,2-Wheelers,0,15
+2021-12-01,Ladakh,4-Wheelers,0,167
+2021-12-01,Manipur,4-Wheelers,0,849
+2021-12-01,Meghalaya,2-Wheelers,0,1101
+2021-12-01,Meghalaya,4-Wheelers,0,888
+2021-12-01,Mizoram,2-Wheelers,0,1740
+2021-12-01,Mizoram,4-Wheelers,0,376
+2021-12-01,Nagaland,2-Wheelers,0,353
+2021-12-01,Nagaland,4-Wheelers,0,540
+2021-12-01,Tripura,4-Wheelers,0,352
+2022-01-01,Andaman & Nicobar Island,2-Wheelers,0,336
+2022-01-01,Andaman & Nicobar Island,4-Wheelers,0,90
+2022-01-01,Arunachal Pradesh,2-Wheelers,0,950
+2022-01-01,Arunachal Pradesh,4-Wheelers,0,766
+2022-01-01,Assam,4-Wheelers,0,5550
+2022-01-01,DNH and DD,4-Wheelers,0,358
+2022-01-01,Jammu and Kashmir,4-Wheelers,0,3963
+2022-01-01,Ladakh,4-Wheelers,0,150
+2022-01-01,Manipur,4-Wheelers,0,687
+2022-01-01,Meghalaya,2-Wheelers,0,1112
+2022-01-01,Meghalaya,4-Wheelers,0,1063
+2022-01-01,Mizoram,2-Wheelers,0,1387
+2022-01-01,Mizoram,4-Wheelers,0,311
+2022-01-01,Nagaland,2-Wheelers,0,410
+2022-01-01,Nagaland,4-Wheelers,0,722
+2022-01-01,Puducherry,4-Wheelers,0,758
+2022-01-01,Tripura,4-Wheelers,0,394
+2022-02-01,Andaman & Nicobar Island,2-Wheelers,0,388
+2022-02-01,Andaman & Nicobar Island,4-Wheelers,0,112
+2022-02-01,Arunachal Pradesh,2-Wheelers,0,858
+2022-02-01,Arunachal Pradesh,4-Wheelers,0,671
+2022-02-01,Ladakh,2-Wheelers,0,15
+2022-02-01,Ladakh,4-Wheelers,0,44
+2022-02-01,Manipur,4-Wheelers,0,834
+2022-02-01,Meghalaya,2-Wheelers,0,1145
+2022-02-01,Mizoram,2-Wheelers,0,1599
+2022-02-01,Mizoram,4-Wheelers,0,354
+2022-02-01,Nagaland,2-Wheelers,0,504
+2022-02-01,Nagaland,4-Wheelers,0,773
+2022-02-01,Puducherry,4-Wheelers,0,622
+2022-02-01,Tripura,4-Wheelers,0,340
+2022-03-01,Andaman & Nicobar Island,2-Wheelers,0,383
+2022-03-01,Arunachal Pradesh,2-Wheelers,0,1111
+2022-03-01,Arunachal Pradesh,4-Wheelers,0,679
+2022-03-01,Ladakh,2-Wheelers,0,49
+2022-03-01,Ladakh,4-Wheelers,0,49
+2022-03-01,Manipur,4-Wheelers,0,717
+2022-03-01,Meghalaya,2-Wheelers,0,1687
+2022-03-01,Meghalaya,4-Wheelers,0,1104
+2022-03-01,Mizoram,2-Wheelers,0,1848
+2022-03-01,Mizoram,4-Wheelers,0,413
+2022-03-01,Nagaland,2-Wheelers,0,541
+2022-03-01,Nagaland,4-Wheelers,0,632
+2022-03-01,Tripura,4-Wheelers,0,484
+2022-04-01,Andaman & Nicobar Island,2-Wheelers,0,407
+2022-04-01,Arunachal Pradesh,2-Wheelers,0,1063
+2022-04-01,Arunachal Pradesh,4-Wheelers,0,824
+2022-04-01,Ladakh,2-Wheelers,0,351
+2022-04-01,Ladakh,4-Wheelers,0,105
+2022-04-01,Mizoram,2-Wheelers,0,1530
+2022-04-01,Mizoram,4-Wheelers,0,323
+2022-04-01,Nagaland,4-Wheelers,0,723
+2022-04-01,Tripura,4-Wheelers,0,448
+2022-05-01,Andaman & Nicobar Island,2-Wheelers,0,358
+2022-05-01,Andaman & Nicobar Island,4-Wheelers,0,110
+2022-05-01,Arunachal Pradesh,2-Wheelers,0,1241
+2022-05-01,Arunachal Pradesh,4-Wheelers,0,965
+2022-05-01,Ladakh,2-Wheelers,0,419
+2022-05-01,Ladakh,4-Wheelers,0,322
+2022-05-01,Manipur,4-Wheelers,0,644
+2022-05-01,Meghalaya,2-Wheelers,0,1780
+2022-05-01,Mizoram,4-Wheelers,0,397
+2022-05-01,Nagaland,4-Wheelers,0,630
+2022-05-01,Tripura,4-Wheelers,0,359
+2022-06-01,Andaman & Nicobar Island,2-Wheelers,0,423
+2022-06-01,Andaman & Nicobar Island,4-Wheelers,0,115
+2022-06-01,Arunachal Pradesh,2-Wheelers,0,1253
+2022-06-01,Arunachal Pradesh,4-Wheelers,0,1021
+2022-06-01,Ladakh,4-Wheelers,0,310
+2022-06-01,Manipur,4-Wheelers,0,1029
+2022-06-01,Mizoram,4-Wheelers,0,373
+2022-06-01,Nagaland,2-Wheelers,0,594
+2022-06-01,Nagaland,4-Wheelers,0,735
+2022-06-01,Tripura,4-Wheelers,0,354
+2022-07-01,Andaman & Nicobar Island,2-Wheelers,0,385
+2022-07-01,Andaman & Nicobar Island,4-Wheelers,0,127
+2022-07-01,Arunachal Pradesh,2-Wheelers,0,1181
+2022-07-01,DNH and DD,4-Wheelers,0,344
+2022-07-01,Ladakh,2-Wheelers,0,314
+2022-07-01,Manipur,4-Wheelers,0,775
+2022-07-01,Mizoram,4-Wheelers,0,319
+2022-07-01,Nagaland,2-Wheelers,0,505
+2022-07-01,Nagaland,4-Wheelers,0,591
+2022-07-01,Tripura,4-Wheelers,0,402
+2022-08-01,Andaman & Nicobar Island,2-Wheelers,0,398
+2022-08-01,Andaman & Nicobar Island,4-Wheelers,0,154
+2022-08-01,Arunachal Pradesh,2-Wheelers,0,1244
+2022-08-01,Arunachal Pradesh,4-Wheelers,0,866
+2022-08-01,Ladakh,2-Wheelers,0,222
+2022-08-01,Manipur,4-Wheelers,0,623
+2022-08-01,Meghalaya,4-Wheelers,0,1120
+2022-08-01,Mizoram,4-Wheelers,0,408
+2022-08-01,Nagaland,2-Wheelers,0,554
+2022-08-01,Nagaland,4-Wheelers,0,844
+2022-08-01,Tripura,4-Wheelers,0,403
+2022-09-01,Andaman & Nicobar Island,2-Wheelers,0,484
+2022-09-01,Andaman & Nicobar Island,4-Wheelers,0,128
+2022-09-01,Arunachal Pradesh,2-Wheelers,0,1068
+2022-09-01,Arunachal Pradesh,4-Wheelers,0,931
+2022-09-01,Ladakh,2-Wheelers,0,30
+2022-09-01,Ladakh,4-Wheelers,0,189
+2022-09-01,Manipur,4-Wheelers,0,820
+2022-09-01,Mizoram,4-Wheelers,0,379
+2022-09-01,Nagaland,2-Wheelers,0,589
+2022-09-01,Nagaland,4-Wheelers,0,780
+2022-09-01,Tripura,4-Wheelers,0,465
+2022-10-01,Andaman & Nicobar Island,2-Wheelers,0,409
+2022-10-01,Andaman & Nicobar Island,4-Wheelers,0,144
+2022-10-01,Arunachal Pradesh,2-Wheelers,0,850
+2022-10-01,Arunachal Pradesh,4-Wheelers,0,741
+2022-10-01,Ladakh,2-Wheelers,0,27
+2022-10-01,Ladakh,4-Wheelers,0,264
+2022-10-01,Manipur,4-Wheelers,0,596
+2022-10-01,Mizoram,4-Wheelers,0,362
+2022-10-01,Nagaland,2-Wheelers,0,374
+2022-10-01,Nagaland,4-Wheelers,0,690
+2022-10-01,Tripura,4-Wheelers,0,416
+2022-11-01,Arunachal Pradesh,2-Wheelers,0,1251
+2022-11-01,Arunachal Pradesh,4-Wheelers,0,971
+2022-11-01,Jammu and Kashmir,4-Wheelers,0,4102
+2022-11-01,Ladakh,2-Wheelers,0,23
+2022-11-01,Ladakh,4-Wheelers,0,244
+2022-11-01,Manipur,4-Wheelers,0,1569
+2022-11-01,Meghalaya,4-Wheelers,0,1158
+2022-11-01,Mizoram,4-Wheelers,0,378
+2022-11-01,Nagaland,2-Wheelers,0,447
+2022-11-01,Nagaland,4-Wheelers,0,724
+2022-11-01,Punjab,4-Wheelers,0,8875
+2022-11-01,Tripura,4-Wheelers,0,410
+2022-12-01,Arunachal Pradesh,4-Wheelers,0,865
+2022-12-01,Ladakh,2-Wheelers,0,16
+2022-12-01,Ladakh,4-Wheelers,0,144
+2022-12-01,Manipur,4-Wheelers,0,1478
+2022-12-01,Meghalaya,4-Wheelers,0,1150
+2022-12-01,Mizoram,4-Wheelers,0,445
+2022-12-01,Nagaland,2-Wheelers,0,369
+2022-12-01,Nagaland,4-Wheelers,0,490
+2022-12-01,Tripura,4-Wheelers,0,385
+2023-01-01,Andaman & Nicobar Island,2-Wheelers,0,373
+2023-01-01,Andaman & Nicobar Island,4-Wheelers,0,153
+2023-01-01,Arunachal Pradesh,2-Wheelers,0,718
+2023-01-01,Arunachal Pradesh,4-Wheelers,0,966
+2023-01-01,Ladakh,4-Wheelers,0,92
+2023-01-01,Mizoram,4-Wheelers,0,476
+2023-01-01,Nagaland,2-Wheelers,0,432
+2023-01-01,Nagaland,4-Wheelers,0,545
+2023-01-01,Punjab,4-Wheelers,0,11608
+2023-01-01,Tripura,4-Wheelers,0,399
+2023-02-01,Andaman & Nicobar Island,2-Wheelers,0,346
+2023-02-01,Andaman & Nicobar Island,4-Wheelers,0,148
+2023-02-01,Arunachal Pradesh,2-Wheelers,0,816
+2023-02-01,Arunachal Pradesh,4-Wheelers,0,840
+2023-02-01,Ladakh,2-Wheelers,0,5
+2023-02-01,Ladakh,4-Wheelers,0,49
+2023-02-01,Meghalaya,4-Wheelers,0,1002
+2023-02-01,Mizoram,4-Wheelers,0,337
+2023-02-01,Nagaland,2-Wheelers,0,375
+2023-02-01,Nagaland,4-Wheelers,0,806
+2023-02-01,Tripura,4-Wheelers,0,328
+2023-03-01,Arunachal Pradesh,2-Wheelers,0,1131
+2023-03-01,Arunachal Pradesh,4-Wheelers,0,1048
+2023-03-01,Ladakh,2-Wheelers,0,30
+2023-03-01,Ladakh,4-Wheelers,0,59
+2023-03-01,Manipur,4-Wheelers,0,320
+2023-03-01,Meghalaya,4-Wheelers,0,1369
+2023-03-01,Mizoram,4-Wheelers,0,433
+2023-03-01,Nagaland,2-Wheelers,0,693
+2023-03-01,Nagaland,4-Wheelers,0,820
+2023-04-01,Andaman & Nicobar Island,2-Wheelers,0,325
+2023-04-01,Arunachal Pradesh,2-Wheelers,0,971
+2023-04-01,Ladakh,2-Wheelers,0,43
+2023-04-01,Ladakh,4-Wheelers,0,219
+2023-04-01,Manipur,4-Wheelers,0,942
+2023-04-01,Mizoram,4-Wheelers,0,336
+2023-04-01,Nagaland,2-Wheelers,0,560
+2023-05-01,Andaman & Nicobar Island,2-Wheelers,0,436
+2023-05-01,Andaman & Nicobar Island,4-Wheelers,0,150
+2023-05-01,Arunachal Pradesh,4-Wheelers,0,1132
+2023-05-01,Ladakh,4-Wheelers,0,364
+2023-05-01,Mizoram,4-Wheelers,0,382
+2023-05-01,Nagaland,2-Wheelers,0,610
+2023-05-01,Nagaland,4-Wheelers,0,796
+2023-06-01,Andaman & Nicobar Island,2-Wheelers,0,373
+2023-06-01,Arunachal Pradesh,2-Wheelers,0,1141
+2023-06-01,Arunachal Pradesh,4-Wheelers,0,1089
+2023-06-01,Ladakh,4-Wheelers,0,304
+2023-06-01,Manipur,4-Wheelers,0,220
+2023-06-01,Mizoram,4-Wheelers,0,383
+2023-06-01,Nagaland,2-Wheelers,0,650
+2023-06-01,Nagaland,4-Wheelers,0,620
+2023-07-01,Andaman & Nicobar Island,2-Wheelers,0,424
+2023-07-01,Arunachal Pradesh,2-Wheelers,0,1315
+2023-07-01,Ladakh,4-Wheelers,0,301
+2023-07-01,Mizoram,4-Wheelers,0,439
+2023-08-01,Andaman & Nicobar Island,2-Wheelers,0,477
+2023-08-01,Arunachal Pradesh,2-Wheelers,0,1292
+2023-08-01,Ladakh,2-Wheelers,0,63
+2023-08-01,Ladakh,4-Wheelers,0,278
+2023-08-01,Mizoram,4-Wheelers,0,410
+2023-08-01,Nagaland,2-Wheelers,0,592
+2023-08-01,Nagaland,4-Wheelers,0,760
+2023-09-01,Andaman & Nicobar Island,2-Wheelers,0,379
+2023-09-01,Arunachal Pradesh,2-Wheelers,0,1274
+2023-09-01,Ladakh,2-Wheelers,0,40
+2023-09-01,Ladakh,4-Wheelers,0,211
+2023-09-01,Manipur,2-Wheelers,0,426
+2023-09-01,Manipur,4-Wheelers,0,239
+2023-09-01,Mizoram,4-Wheelers,0,415
+2023-09-01,Nagaland,4-Wheelers,0,654
+2023-10-01,Arunachal Pradesh,2-Wheelers,0,1281
+2023-10-01,Ladakh,2-Wheelers,0,33
+2023-10-01,Ladakh,4-Wheelers,0,187
+2023-10-01,Mizoram,4-Wheelers,0,453
+2023-10-01,Nagaland,2-Wheelers,0,471
+2023-10-01,Nagaland,4-Wheelers,0,743
+2023-11-01,Arunachal Pradesh,2-Wheelers,0,1458
+2023-11-01,Ladakh,2-Wheelers,0,39
+2023-11-01,Ladakh,4-Wheelers,0,166
+2023-11-01,Mizoram,4-Wheelers,0,531
+2023-12-01,Ladakh,2-Wheelers,0,7
+2023-12-01,Ladakh,4-Wheelers,0,144
+2023-12-01,Mizoram,4-Wheelers,0,568
+2023-12-01,Nagaland,2-Wheelers,0,421
+2023-12-01,Nagaland,4-Wheelers,0,562
+2024-01-01,Arunachal Pradesh,2-Wheelers,0,995
+2024-01-01,Nagaland,2-Wheelers,0,505
+2024-01-01,Ladakh,4-Wheelers,0,141
+2024-01-01,Andaman & Nicobar,4-Wheelers,0,177
+2024-01-01,Nagaland,4-Wheelers,0,877
+2024-02-01,Arunachal Pradesh,2-Wheelers,0,1117
+2024-02-01,Nagaland,2-Wheelers,0,763
+2024-02-01,Ladakh,2-Wheelers,0,4
+2024-02-01,Mizoram,4-Wheelers,0,494
+2024-02-01,Ladakh,4-Wheelers,0,47
+2024-03-01,Arunachal Pradesh,2-Wheelers,0,1259
+2024-03-01,Ladakh,2-Wheelers,0,11
+2024-03-01,Mizoram,4-Wheelers,0,463
+2024-03-01,Nagaland,4-Wheelers,0,1336
+2024-03-01,Ladakh,4-Wheelers,0,81
+2021-04-01,DNH and DD,2-Wheelers,1,657
+2021-04-01,Himachal Pradesh,4-Wheelers,1,3544
+2021-04-01,Meghalaya,4-Wheelers,1,930
+2021-05-01,Chandigarh,4-Wheelers,1,413
+2021-05-01,Haryana,4-Wheelers,1,4373
+2021-05-01,Himachal Pradesh,4-Wheelers,1,1503
+2021-05-01,Jharkhand,4-Wheelers,1,2290
+2021-05-01,Madhya Pradesh,2-Wheelers,1,6302
+2021-05-01,Meghalaya,4-Wheelers,1,88
+2021-06-01,Assam,4-Wheelers,1,3842
+2021-06-01,DNH and DD,4-Wheelers,1,234
+2021-06-01,Himachal Pradesh,4-Wheelers,1,3193
+2021-06-01,Jammu and Kashmir,4-Wheelers,1,4469
+2021-06-01,Tripura,2-Wheelers,1,1523
+2021-07-01,Jammu and Kashmir,4-Wheelers,1,5336
+2021-07-01,Meghalaya,4-Wheelers,1,759
+2021-08-01,Andaman & Nicobar Island,4-Wheelers,1,110
+2021-08-01,Puducherry,4-Wheelers,1,837
+2021-09-01,DNH and DD,2-Wheelers,1,666
+2021-09-01,Himachal Pradesh,4-Wheelers,1,3379
+2021-09-01,Jammu and Kashmir,4-Wheelers,1,3773
+2021-09-01,Nagaland,2-Wheelers,1,578
+2021-10-01,Andaman & Nicobar Island,4-Wheelers,1,70
+2021-10-01,DNH and DD,2-Wheelers,1,628
+2021-10-01,DNH and DD,4-Wheelers,1,333
+2021-10-01,Himachal Pradesh,4-Wheelers,1,3201
+2021-11-01,DNH and DD,2-Wheelers,1,938
+2021-11-01,Puducherry,4-Wheelers,1,532
+2021-12-01,Andaman & Nicobar Island,4-Wheelers,1,122
+2021-12-01,DNH and DD,4-Wheelers,1,336
+2021-12-01,Himachal Pradesh,4-Wheelers,1,4105
+2021-12-01,Tripura,2-Wheelers,1,3579
+2022-02-01,DNH and DD,4-Wheelers,1,354
+2022-02-01,Meghalaya,4-Wheelers,1,917
+2022-03-01,DNH and DD,4-Wheelers,1,355
+2022-04-01,Andaman & Nicobar Island,4-Wheelers,1,147
+2022-04-01,DNH and DD,4-Wheelers,1,431
+2022-04-01,Manipur,2-Wheelers,1,1246
+2022-04-01,Manipur,4-Wheelers,1,813
+2022-04-01,Meghalaya,4-Wheelers,1,860
+2022-05-01,DNH and DD,4-Wheelers,1,374
+2022-05-01,Mizoram,2-Wheelers,1,1638
+2022-05-01,Nagaland,2-Wheelers,1,514
+2022-06-01,DNH and DD,2-Wheelers,1,767
+2022-06-01,Meghalaya,4-Wheelers,1,1087
+2022-07-01,Arunachal Pradesh,4-Wheelers,1,947
+2022-07-01,Ladakh,4-Wheelers,1,285
+2022-07-01,Mizoram,2-Wheelers,1,1427
+2022-08-01,DNH and DD,4-Wheelers,1,303
+2022-09-01,DNH and DD,4-Wheelers,1,390
+2022-09-01,Manipur,2-Wheelers,1,2473
+2022-09-01,Meghalaya,2-Wheelers,1,1719
+2022-10-01,Meghalaya,4-Wheelers,1,1188
+2022-11-01,Andaman & Nicobar Island,4-Wheelers,1,159
+2022-12-01,Arunachal Pradesh,2-Wheelers,1,925
+2022-12-01,Meghalaya,2-Wheelers,1,1180
+2022-12-01,Punjab,4-Wheelers,1,13085
+2023-01-01,DNH and DD,4-Wheelers,1,360
+2023-01-01,Ladakh,2-Wheelers,1,20
+2023-01-01,Meghalaya,4-Wheelers,1,1271
+2023-03-01,Andaman & Nicobar Island,2-Wheelers,1,373
+2023-03-01,Andaman & Nicobar Island,4-Wheelers,1,162
+2023-03-01,Meghalaya,2-Wheelers,1,1907
+2023-04-01,Andaman & Nicobar Island,4-Wheelers,1,122
+2023-04-01,Arunachal Pradesh,4-Wheelers,1,892
+2023-04-01,DNH and DD,4-Wheelers,1,407
+2023-04-01,Nagaland,4-Wheelers,1,687
+2023-04-01,Tripura,4-Wheelers,1,299
+2023-05-01,Arunachal Pradesh,2-Wheelers,1,1193
+2023-06-01,Andaman & Nicobar Island,4-Wheelers,1,136
+2023-06-01,DNH and DD,4-Wheelers,1,370
+2023-06-01,Meghalaya,2-Wheelers,1,1969
+2023-07-01,Ladakh,2-Wheelers,1,117
+2023-07-01,Nagaland,2-Wheelers,1,599
+2023-07-01,Nagaland,4-Wheelers,1,739
+2023-08-01,DNH and DD,4-Wheelers,1,357
+2023-09-01,Andaman & Nicobar Island,4-Wheelers,1,148
+2023-09-01,Nagaland,2-Wheelers,1,531
+2023-10-01,Andaman & Nicobar Island,2-Wheelers,1,404
+2023-10-01,Andaman & Nicobar Island,4-Wheelers,1,191
+2023-10-01,Meghalaya,2-Wheelers,1,1776
+2023-10-01,Meghalaya,4-Wheelers,1,1354
+2023-11-01,Andaman & Nicobar Island,4-Wheelers,1,170
+2023-11-01,Nagaland,2-Wheelers,1,634
+2023-11-01,Nagaland,4-Wheelers,1,860
+2023-12-01,Meghalaya,2-Wheelers,1,1518
+2023-12-01,Meghalaya,4-Wheelers,1,1060
+2024-01-01,Mizoram,4-Wheelers,1,513
+2024-01-01,Meghalaya,4-Wheelers,1,1429
+2024-02-01,Andaman & Nicobar Island,4-Wheelers,1,181
+2024-02-01,Nagaland,4-Wheelers,1,822
+2024-03-01,Andaman & Nicobar Island,4-Wheelers,1,158
+2024-03-01,Arunachal Pradesh,4-Wheelers,1,1081
+2021-04-01,Andaman & Nicobar Island,4-Wheelers,9,168
+2021-04-01,Andhra Pradesh,4-Wheelers,26,7837
+2021-04-01,Bihar,4-Wheelers,4,5731
+2021-04-01,Chandigarh,4-Wheelers,2,1426
+2021-04-01,Delhi,4-Wheelers,61,8076
+2021-04-01,Goa,4-Wheelers,8,1442
+2021-04-01,Gujarat,4-Wheelers,44,17386
+2021-04-01,Haryana,4-Wheelers,3,15476
+2021-04-01,Jharkhand,4-Wheelers,3,3425
+2021-04-01,Karnataka,4-Wheelers,90,16864
+2021-04-01,Kerala,4-Wheelers,132,23660
+2021-04-01,Madhya Pradesh,4-Wheelers,2,5356
+2021-04-01,Maharashtra,4-Wheelers,96,16829
+2021-04-01,Odisha,4-Wheelers,5,5101
+2021-04-01,Punjab,4-Wheelers,4,8955
+2021-04-01,Rajasthan,4-Wheelers,22,10647
+2021-04-01,Tamil Nadu,4-Wheelers,75,18826
+2021-04-01,Uttar Pradesh,4-Wheelers,4,23056
+2021-04-01,Uttarakhand,4-Wheelers,10,2728
+2021-04-01,West Bengal,4-Wheelers,24,7640
+2021-05-01,Andhra Pradesh,4-Wheelers,16,5831
+2021-05-01,Goa,4-Wheelers,4,393
+2021-05-01,Gujarat,4-Wheelers,29,15959
+2021-05-01,Karnataka,4-Wheelers,2,646
+2021-05-01,Kerala,4-Wheelers,48,5164
+2021-05-01,Maharashtra,4-Wheelers,121,13528
+2021-05-01,Puducherry,4-Wheelers,2,119
+2021-05-01,Rajasthan,4-Wheelers,7,2756
+2021-05-01,Tamil Nadu,4-Wheelers,14,3413
+2021-05-01,Uttar Pradesh,4-Wheelers,3,14016
+2021-05-01,West Bengal,4-Wheelers,6,3962
+2021-06-01,Andhra Pradesh,4-Wheelers,39,6098
+2021-06-01,Bihar,4-Wheelers,4,5692
+2021-06-01,Chandigarh,4-Wheelers,12,2050
+2021-06-01,Chhattisgarh,4-Wheelers,5,4526
+2021-06-01,Delhi,4-Wheelers,148,12914
+2021-06-01,Goa,4-Wheelers,14,749
+2021-06-01,Gujarat,4-Wheelers,61,19359
+2021-06-01,Haryana,4-Wheelers,4,13420
+2021-06-01,Jharkhand,4-Wheelers,4,4405
+2021-06-01,Karnataka,4-Wheelers,71,8030
+2021-06-01,Kerala,4-Wheelers,140,10018
+2021-06-01,Madhya Pradesh,4-Wheelers,13,12092
+2021-06-01,Maharashtra,4-Wheelers,190,24817
+2021-06-01,Odisha,4-Wheelers,2,3041
+2021-06-01,Punjab,4-Wheelers,3,7126
+2021-06-01,Rajasthan,4-Wheelers,34,12070
+2021-06-01,Tamil Nadu,4-Wheelers,42,7793
+2021-06-01,Uttar Pradesh,4-Wheelers,3,25704
+2021-06-01,Uttarakhand,4-Wheelers,7,2972
+2021-06-01,West Bengal,4-Wheelers,18,6316
+2021-07-01,Andaman & Nicobar Island,4-Wheelers,8,176
+2021-07-01,Andhra Pradesh,4-Wheelers,36,7877
+2021-07-01,Bihar,4-Wheelers,5,5438
+2021-07-01,Chandigarh,4-Wheelers,9,1916
+2021-07-01,Chhattisgarh,4-Wheelers,12,4916
+2021-07-01,Delhi,4-Wheelers,131,15033
+2021-07-01,Goa,4-Wheelers,10,982
+2021-07-01,Gujarat,4-Wheelers,53,23792
+2021-07-01,Haryana,4-Wheelers,6,14524
+2021-07-01,Himachal Pradesh,4-Wheelers,2,3811
+2021-07-01,Jharkhand,4-Wheelers,4,5020
+2021-07-01,Karnataka,4-Wheelers,196,21640
+2021-07-01,Kerala,4-Wheelers,139,18406
+2021-07-01,Madhya Pradesh,4-Wheelers,17,14581
+2021-07-01,Maharashtra,4-Wheelers,286,38063
+2021-07-01,Odisha,4-Wheelers,3,5552
+2021-07-01,Punjab,4-Wheelers,3,9328
+2021-07-01,Rajasthan,4-Wheelers,52,14374
+2021-07-01,Tamil Nadu,4-Wheelers,88,20857
+2021-07-01,Uttar Pradesh,4-Wheelers,8,27999
+2021-07-01,Uttarakhand,4-Wheelers,11,4182
+2021-07-01,West Bengal,4-Wheelers,37,8919
+2021-08-01,Andhra Pradesh,4-Wheelers,78,8245
+2021-08-01,Assam,4-Wheelers,2,6447
+2021-08-01,Bihar,4-Wheelers,7,5724
+2021-08-01,Chandigarh,4-Wheelers,9,1845
+2021-08-01,Chhattisgarh,4-Wheelers,11,4350
+2021-08-01,Delhi,4-Wheelers,157,13177
+2021-08-01,Goa,4-Wheelers,19,1439
+2021-08-01,Gujarat,4-Wheelers,83,20394
+2021-08-01,Haryana,4-Wheelers,3,16027
+2021-08-01,Jharkhand,4-Wheelers,3,5113
+2021-08-01,Karnataka,4-Wheelers,137,21975
+2021-08-01,Kerala,4-Wheelers,183,22813
+2021-08-01,Madhya Pradesh,4-Wheelers,26,12758
+2021-08-01,Maharashtra,4-Wheelers,197,35127
+2021-08-01,Odisha,4-Wheelers,4,5453
+2021-08-01,Punjab,4-Wheelers,4,9209
+2021-08-01,Rajasthan,4-Wheelers,53,11454
+2021-08-01,Tamil Nadu,4-Wheelers,88,20865
+2021-08-01,Uttar Pradesh,4-Wheelers,3,24012
+2021-08-01,Uttarakhand,4-Wheelers,6,3760
+2021-08-01,West Bengal,4-Wheelers,28,9198
+2021-09-01,Andhra Pradesh,4-Wheelers,39,7952
+2021-09-01,Bihar,4-Wheelers,4,4339
+2021-09-01,Chandigarh,4-Wheelers,20,1607
+2021-09-01,Chhattisgarh,4-Wheelers,12,3650
+2021-09-01,Delhi,4-Wheelers,265,9181
+2021-09-01,Goa,4-Wheelers,34,1277
+2021-09-01,Gujarat,4-Wheelers,131,24797
+2021-09-01,Haryana,4-Wheelers,7,14879
+2021-09-01,Jharkhand,4-Wheelers,12,3892
+2021-09-01,Karnataka,4-Wheelers,227,21407
+2021-09-01,Kerala,4-Wheelers,164,22063
+2021-09-01,Madhya Pradesh,4-Wheelers,23,11756
+2021-09-01,Maharashtra,4-Wheelers,148,27900
+2021-09-01,Odisha,4-Wheelers,2,4865
+2021-09-01,Puducherry,4-Wheelers,2,640
+2021-09-01,Punjab,4-Wheelers,3,7521
+2021-09-01,Rajasthan,4-Wheelers,69,11035
+2021-09-01,Tamil Nadu,4-Wheelers,107,18823
+2021-09-01,Uttar Pradesh,4-Wheelers,4,23510
+2021-09-01,Uttarakhand,4-Wheelers,10,3171
+2021-09-01,West Bengal,4-Wheelers,34,9437
+2021-10-01,Andhra Pradesh,4-Wheelers,37,7366
+2021-10-01,Bihar,4-Wheelers,7,5838
+2021-10-01,Chandigarh,4-Wheelers,12,1816
+2021-10-01,Chhattisgarh,4-Wheelers,11,5255
+2021-10-01,Delhi,4-Wheelers,253,12876
+2021-10-01,Goa,4-Wheelers,28,1165
+2021-10-01,Gujarat,4-Wheelers,104,23184
+2021-10-01,Haryana,4-Wheelers,8,11634
+2021-10-01,Jammu and Kashmir,4-Wheelers,2,4205
+2021-10-01,Jharkhand,4-Wheelers,5,4806
+2021-10-01,Karnataka,4-Wheelers,163,18505
+2021-10-01,Kerala,4-Wheelers,158,14562
+2021-10-01,Madhya Pradesh,4-Wheelers,20,9554
+2021-10-01,Maharashtra,4-Wheelers,298,33771
+2021-10-01,Odisha,4-Wheelers,2,5830
+2021-10-01,Punjab,4-Wheelers,5,8523
+2021-10-01,Rajasthan,4-Wheelers,86,12823
+2021-10-01,Tamil Nadu,4-Wheelers,119,14796
+2021-10-01,Uttar Pradesh,4-Wheelers,10,23095
+2021-10-01,Uttarakhand,4-Wheelers,13,3523
+2021-10-01,West Bengal,4-Wheelers,33,7120
+2021-11-01,Andhra Pradesh,4-Wheelers,34,7374
+2021-11-01,Bihar,4-Wheelers,11,6992
+2021-11-01,Chandigarh,4-Wheelers,16,1919
+2021-11-01,Chhattisgarh,4-Wheelers,14,4824
+2021-11-01,Delhi,4-Wheelers,185,11782
+2021-11-01,Goa,4-Wheelers,20,1293
+2021-11-01,Gujarat,4-Wheelers,121,22396
+2021-11-01,Haryana,4-Wheelers,13,16035
+2021-11-01,Jharkhand,4-Wheelers,8,5320
+2021-11-01,Karnataka,4-Wheelers,153,17247
+2021-11-01,Kerala,4-Wheelers,214,15244
+2021-11-01,Madhya Pradesh,4-Wheelers,31,12871
+2021-11-01,Maharashtra,4-Wheelers,515,28322
+2021-11-01,Odisha,4-Wheelers,18,5095
+2021-11-01,Punjab,4-Wheelers,3,9015
+2021-11-01,Rajasthan,4-Wheelers,79,16115
+2021-11-01,Tamil Nadu,4-Wheelers,108,15533
+2021-11-01,Uttar Pradesh,4-Wheelers,10,29608
+2021-11-01,Uttarakhand,4-Wheelers,12,3954
+2021-11-01,West Bengal,4-Wheelers,59,8836
+2021-12-01,Andhra Pradesh,4-Wheelers,31,6314
+2021-12-01,Assam,4-Wheelers,3,6737
+2021-12-01,Bihar,4-Wheelers,7,5031
+2021-12-01,Chandigarh,4-Wheelers,12,1985
+2021-12-01,Chhattisgarh,4-Wheelers,5,3651
+2021-12-01,Delhi,4-Wheelers,277,12633
+2021-12-01,Goa,4-Wheelers,19,1306
+2021-12-01,Gujarat,4-Wheelers,163,24277
+2021-12-01,Haryana,4-Wheelers,11,16015
+2021-12-01,Jharkhand,4-Wheelers,3,4258
+2021-12-01,Karnataka,4-Wheelers,153,16243
+2021-12-01,Kerala,4-Wheelers,186,16994
+2021-12-01,Madhya Pradesh,4-Wheelers,30,11820
+2021-12-01,Maharashtra,4-Wheelers,1392,29346
+2021-12-01,Odisha,4-Wheelers,20,4634
+2021-12-01,Puducherry,4-Wheelers,2,608
+2021-12-01,Punjab,4-Wheelers,6,10624
+2021-12-01,Rajasthan,4-Wheelers,73,12739
+2021-12-01,Tamil Nadu,4-Wheelers,121,17001
+2021-12-01,Uttar Pradesh,4-Wheelers,21,33774
+2021-12-01,Uttarakhand,4-Wheelers,38,4270
+2021-12-01,West Bengal,4-Wheelers,39,8452
+2022-01-01,Andhra Pradesh,4-Wheelers,29,8418
+2022-01-01,Bihar,4-Wheelers,10,5538
+2022-01-01,Chandigarh,4-Wheelers,7,1519
+2022-01-01,Chhattisgarh,4-Wheelers,11,4667
+2022-01-01,Delhi,4-Wheelers,282,13659
+2022-01-01,Goa,4-Wheelers,26,1185
+2022-01-01,Gujarat,4-Wheelers,97,21963
+2022-01-01,Haryana,4-Wheelers,26,17633
+2022-01-01,Himachal Pradesh,4-Wheelers,3,3090
+2022-01-01,Jharkhand,4-Wheelers,5,4345
+2022-01-01,Karnataka,4-Wheelers,209,21967
+2022-01-01,Kerala,4-Wheelers,212,17441
+2022-01-01,Madhya Pradesh,4-Wheelers,25,11325
+2022-01-01,Maharashtra,4-Wheelers,263,35772
+2022-01-01,Odisha,4-Wheelers,27,5876
+2022-01-01,Punjab,4-Wheelers,7,9792
+2022-01-01,Rajasthan,4-Wheelers,92,13658
+2022-01-01,Tamil Nadu,4-Wheelers,121,20494
+2022-01-01,Uttar Pradesh,4-Wheelers,14,32561
+2022-01-01,Uttarakhand,4-Wheelers,30,4241
+2022-01-01,West Bengal,4-Wheelers,54,7968
+2022-02-01,Andhra Pradesh,4-Wheelers,43,6361
+2022-02-01,Assam,4-Wheelers,3,6152
+2022-02-01,Bihar,4-Wheelers,8,5658
+2022-02-01,Chandigarh,4-Wheelers,11,1941
+2022-02-01,Chhattisgarh,4-Wheelers,20,3922
+2022-02-01,Delhi,4-Wheelers,298,12608
+2022-02-01,Goa,4-Wheelers,62,1160
+2022-02-01,Gujarat,4-Wheelers,128,24012
+2022-02-01,Haryana,4-Wheelers,28,16353
+2022-02-01,Himachal Pradesh,4-Wheelers,5,3616
+2022-02-01,Jammu and Kashmir,4-Wheelers,7,4679
+2022-02-01,Jharkhand,4-Wheelers,4,4335
+2022-02-01,Karnataka,4-Wheelers,202,17561
+2022-02-01,Kerala,4-Wheelers,327,14575
+2022-02-01,Madhya Pradesh,4-Wheelers,22,11274
+2022-02-01,Maharashtra,4-Wheelers,905,31805
+2022-02-01,Odisha,4-Wheelers,27,5023
+2022-02-01,Punjab,4-Wheelers,5,9464
+2022-02-01,Rajasthan,4-Wheelers,116,14811
+2022-02-01,Tamil Nadu,4-Wheelers,135,16711
+2022-02-01,Uttar Pradesh,4-Wheelers,22,28479
+2022-02-01,Uttarakhand,4-Wheelers,24,3820
+2022-02-01,West Bengal,4-Wheelers,45,7395
+2022-03-01,Andaman & Nicobar Island,4-Wheelers,2,108
+2022-03-01,Andhra Pradesh,4-Wheelers,55,7288
+2022-03-01,Assam,4-Wheelers,2,7281
+2022-03-01,Bihar,4-Wheelers,12,6694
+2022-03-01,Chandigarh,4-Wheelers,14,2279
+2022-03-01,Chhattisgarh,4-Wheelers,19,4200
+2022-03-01,Delhi,4-Wheelers,220,13385
+2022-03-01,Goa,4-Wheelers,91,1474
+2022-03-01,Gujarat,4-Wheelers,249,26077
+2022-03-01,Haryana,4-Wheelers,13,18621
+2022-03-01,Himachal Pradesh,4-Wheelers,3,3371
+2022-03-01,Jammu and Kashmir,4-Wheelers,4,4854
+2022-03-01,Jharkhand,4-Wheelers,5,5062
+2022-03-01,Karnataka,4-Wheelers,230,22167
+2022-03-01,Kerala,4-Wheelers,331,16628
+2022-03-01,Madhya Pradesh,4-Wheelers,35,11616
+2022-03-01,Maharashtra,4-Wheelers,2060,39762
+2022-03-01,Odisha,4-Wheelers,31,6098
+2022-03-01,Puducherry,4-Wheelers,3,817
+2022-03-01,Punjab,4-Wheelers,4,10836
+2022-03-01,Rajasthan,4-Wheelers,89,13751
+2022-03-01,Tamil Nadu,4-Wheelers,168,20604
+2022-03-01,Uttar Pradesh,4-Wheelers,18,29324
+2022-03-01,Uttarakhand,4-Wheelers,20,4026
+2022-03-01,West Bengal,4-Wheelers,41,8539
+2022-04-01,Andhra Pradesh,4-Wheelers,54,7195
+2022-04-01,Assam,4-Wheelers,2,6354
+2022-04-01,Bihar,4-Wheelers,8,5981
+2022-04-01,Chandigarh,4-Wheelers,12,2167
+2022-04-01,Chhattisgarh,4-Wheelers,20,4861
+2022-04-01,Delhi,4-Wheelers,566,15811
+2022-04-01,Goa,4-Wheelers,31,1390
+2022-04-01,Gujarat,4-Wheelers,171,26534
+2022-04-01,Haryana,4-Wheelers,11,16721
+2022-04-01,Himachal Pradesh,4-Wheelers,4,3140
+2022-04-01,Jammu and Kashmir,4-Wheelers,3,4468
+2022-04-01,Jharkhand,4-Wheelers,9,4564
+2022-04-01,Karnataka,4-Wheelers,311,24129
+2022-04-01,Kerala,4-Wheelers,275,16142
+2022-04-01,Madhya Pradesh,4-Wheelers,37,11896
+2022-04-01,Maharashtra,4-Wheelers,354,32449
+2022-04-01,Odisha,4-Wheelers,31,5448
+2022-04-01,Puducherry,4-Wheelers,2,702
+2022-04-01,Punjab,4-Wheelers,3,10147
+2022-04-01,Rajasthan,4-Wheelers,87,15176
+2022-04-01,Tamil Nadu,4-Wheelers,154,17499
+2022-04-01,Uttar Pradesh,4-Wheelers,11,32173
+2022-04-01,Uttarakhand,4-Wheelers,49,4116
+2022-04-01,West Bengal,4-Wheelers,40,8560
+2022-05-01,Andhra Pradesh,4-Wheelers,59,6927
+2022-05-01,Assam,4-Wheelers,7,6761
+2022-05-01,Bihar,4-Wheelers,12,6495
+2022-05-01,Chandigarh,4-Wheelers,20,2248
+2022-05-01,Chhattisgarh,4-Wheelers,24,4397
+2022-05-01,Delhi,4-Wheelers,750,15194
+2022-05-01,Goa,4-Wheelers,51,1360
+2022-05-01,Gujarat,4-Wheelers,163,23174
+2022-05-01,Haryana,4-Wheelers,31,18343
+2022-05-01,Himachal Pradesh,4-Wheelers,3,3778
+2022-05-01,Jammu and Kashmir,4-Wheelers,2,4775
+2022-05-01,Jharkhand,4-Wheelers,3,4306
+2022-05-01,Karnataka,4-Wheelers,241,20924
+2022-05-01,Kerala,4-Wheelers,258,15706
+2022-05-01,Madhya Pradesh,4-Wheelers,43,14017
+2022-05-01,Maharashtra,4-Wheelers,794,34222
+2022-05-01,Meghalaya,4-Wheelers,3,1051
+2022-05-01,Odisha,4-Wheelers,40,5583
+2022-05-01,Puducherry,4-Wheelers,2,726
+2022-05-01,Punjab,4-Wheelers,2,9843
+2022-05-01,Rajasthan,4-Wheelers,124,17047
+2022-05-01,Tamil Nadu,4-Wheelers,202,19368
+2022-05-01,Uttar Pradesh,4-Wheelers,26,30695
+2022-05-01,Uttarakhand,4-Wheelers,22,3948
+2022-05-01,West Bengal,4-Wheelers,76,8341
+2022-06-01,Andhra Pradesh,4-Wheelers,47,6652
+2022-06-01,Assam,4-Wheelers,9,5825
+2022-06-01,Bihar,4-Wheelers,16,5543
+2022-06-01,Chandigarh,4-Wheelers,19,1993
+2022-06-01,Chhattisgarh,4-Wheelers,32,3933
+2022-06-01,DNH and DD,4-Wheelers,4,369
+2022-06-01,Delhi,4-Wheelers,267,14908
+2022-06-01,Goa,4-Wheelers,74,1342
+2022-06-01,Gujarat,4-Wheelers,337,26192
+2022-06-01,Haryana,4-Wheelers,26,17365
+2022-06-01,Himachal Pradesh,4-Wheelers,2,3457
+2022-06-01,Jammu and Kashmir,4-Wheelers,4,4239
+2022-06-01,Jharkhand,4-Wheelers,19,4097
+2022-06-01,Karnataka,4-Wheelers,359,22817
+2022-06-01,Kerala,4-Wheelers,345,16486
+2022-06-01,Madhya Pradesh,4-Wheelers,42,12480
+2022-06-01,Maharashtra,4-Wheelers,1082,35587
+2022-06-01,Odisha,4-Wheelers,32,5778
+2022-06-01,Puducherry,4-Wheelers,9,808
+2022-06-01,Punjab,4-Wheelers,3,9388
+2022-06-01,Rajasthan,4-Wheelers,136,13559
+2022-06-01,Tamil Nadu,4-Wheelers,199,20592
+2022-06-01,Uttar Pradesh,4-Wheelers,17,27820
+2022-06-01,Uttarakhand,4-Wheelers,38,3959
+2022-06-01,West Bengal,4-Wheelers,91,8407
+2022-07-01,Andhra Pradesh,4-Wheelers,63,6757
+2022-07-01,Assam,4-Wheelers,11,6769
+2022-07-01,Bihar,4-Wheelers,10,5215
+2022-07-01,Chandigarh,4-Wheelers,21,2709
+2022-07-01,Chhattisgarh,4-Wheelers,29,4394
+2022-07-01,Delhi,4-Wheelers,438,16056
+2022-07-01,Goa,4-Wheelers,107,1545
+2022-07-01,Gujarat,4-Wheelers,308,24735
+2022-07-01,Haryana,4-Wheelers,135,17539
+2022-07-01,Himachal Pradesh,4-Wheelers,6,3618
+2022-07-01,Jammu and Kashmir,4-Wheelers,9,4577
+2022-07-01,Jharkhand,4-Wheelers,7,4187
+2022-07-01,Karnataka,4-Wheelers,358,19322
+2022-07-01,Kerala,4-Wheelers,292,14993
+2022-07-01,Madhya Pradesh,4-Wheelers,45,11437
+2022-07-01,Maharashtra,4-Wheelers,1098,35100
+2022-07-01,Meghalaya,4-Wheelers,2,1053
+2022-07-01,Odisha,4-Wheelers,29,5336
+2022-07-01,Puducherry,4-Wheelers,5,681
+2022-07-01,Punjab,4-Wheelers,7,9415
+2022-07-01,Rajasthan,4-Wheelers,102,12817
+2022-07-01,Tamil Nadu,4-Wheelers,176,17830
+2022-07-01,Uttar Pradesh,4-Wheelers,19,27276
+2022-07-01,Uttarakhand,4-Wheelers,34,3820
+2022-07-01,West Bengal,4-Wheelers,93,8312
+2022-08-01,Andhra Pradesh,4-Wheelers,64,7491
+2022-08-01,Assam,4-Wheelers,10,6733
+2022-08-01,Bihar,4-Wheelers,15,5012
+2022-08-01,Chandigarh,4-Wheelers,19,1903
+2022-08-01,Chhattisgarh,4-Wheelers,35,3974
+2022-08-01,Delhi,4-Wheelers,443,16315
+2022-08-01,Goa,4-Wheelers,44,2364
+2022-08-01,Gujarat,4-Wheelers,230,23571
+2022-08-01,Haryana,4-Wheelers,163,18545
+2022-08-01,Himachal Pradesh,4-Wheelers,2,3517
+2022-08-01,Jammu and Kashmir,4-Wheelers,3,4299
+2022-08-01,Jharkhand,4-Wheelers,15,4040
+2022-08-01,Karnataka,4-Wheelers,363,23924
+2022-08-01,Kerala,4-Wheelers,342,21051
+2022-08-01,Ladakh,4-Wheelers,9,269
+2022-08-01,Madhya Pradesh,4-Wheelers,72,15953
+2022-08-01,Maharashtra,4-Wheelers,992,40173
+2022-08-01,Odisha,4-Wheelers,43,5716
+2022-08-01,Puducherry,4-Wheelers,4,758
+2022-08-01,Punjab,4-Wheelers,3,9913
+2022-08-01,Rajasthan,4-Wheelers,145,12578
+2022-08-01,Tamil Nadu,4-Wheelers,182,20944
+2022-08-01,Uttar Pradesh,4-Wheelers,15,25778
+2022-08-01,Uttarakhand,4-Wheelers,34,3599
+2022-08-01,West Bengal,4-Wheelers,110,9228
+2022-09-01,Andhra Pradesh,4-Wheelers,61,8003
+2022-09-01,Assam,4-Wheelers,13,8690
+2022-09-01,Bihar,4-Wheelers,14,5315
+2022-09-01,Chandigarh,4-Wheelers,26,2119
+2022-09-01,Chhattisgarh,4-Wheelers,50,3978
+2022-09-01,Delhi,4-Wheelers,471,14076
+2022-09-01,Goa,4-Wheelers,42,1687
+2022-09-01,Gujarat,4-Wheelers,299,25102
+2022-09-01,Haryana,4-Wheelers,49,14140
+2022-09-01,Himachal Pradesh,4-Wheelers,4,2815
+2022-09-01,Jammu and Kashmir,4-Wheelers,4,4432
+2022-09-01,Jharkhand,4-Wheelers,31,4183
+2022-09-01,Karnataka,4-Wheelers,493,25136
+2022-09-01,Kerala,4-Wheelers,397,19551
+2022-09-01,Madhya Pradesh,4-Wheelers,61,11080
+2022-09-01,Maharashtra,4-Wheelers,939,33643
+2022-09-01,Meghalaya,4-Wheelers,2,1047
+2022-09-01,Odisha,4-Wheelers,40,5941
+2022-09-01,Puducherry,4-Wheelers,2,858
+2022-09-01,Punjab,4-Wheelers,4,8968
+2022-09-01,Rajasthan,4-Wheelers,150,12513
+2022-09-01,Tamil Nadu,4-Wheelers,218,21233
+2022-09-01,Uttar Pradesh,4-Wheelers,23,22777
+2022-09-01,Uttarakhand,4-Wheelers,29,3066
+2022-09-01,West Bengal,4-Wheelers,123,11473
+2022-10-01,Andhra Pradesh,4-Wheelers,57,8075
+2022-10-01,Assam,4-Wheelers,11,7529
+2022-10-01,Bihar,4-Wheelers,19,7888
+2022-10-01,Chandigarh,4-Wheelers,16,2422
+2022-10-01,Chhattisgarh,4-Wheelers,51,7365
+2022-10-01,DNH and DD,4-Wheelers,2,432
+2022-10-01,Delhi,4-Wheelers,633,18613
+2022-10-01,Goa,4-Wheelers,40,2230
+2022-10-01,Gujarat,4-Wheelers,189,31456
+2022-10-01,Haryana,4-Wheelers,39,21475
+2022-10-01,Himachal Pradesh,4-Wheelers,2,3447
+2022-10-01,Jammu and Kashmir,4-Wheelers,8,4556
+2022-10-01,Jharkhand,4-Wheelers,22,6208
+2022-10-01,Karnataka,4-Wheelers,563,26091
+2022-10-01,Kerala,4-Wheelers,419,16857
+2022-10-01,Madhya Pradesh,4-Wheelers,63,22052
+2022-10-01,Maharashtra,4-Wheelers,1174,51561
+2022-10-01,Odisha,4-Wheelers,43,6848
+2022-10-01,Puducherry,4-Wheelers,4,754
+2022-10-01,Punjab,4-Wheelers,3,10552
+2022-10-01,Rajasthan,4-Wheelers,204,22678
+2022-10-01,Tamil Nadu,4-Wheelers,184,18425
+2022-10-01,Uttar Pradesh,4-Wheelers,21,42577
+2022-10-01,Uttarakhand,4-Wheelers,50,5163
+2022-10-01,West Bengal,4-Wheelers,94,6483
+2022-11-01,Andhra Pradesh,4-Wheelers,95,6272
+2022-11-01,Assam,4-Wheelers,10,7676
+2022-11-01,Bihar,4-Wheelers,6,6295
+2022-11-01,Chandigarh,4-Wheelers,61,2279
+2022-11-01,Chhattisgarh,4-Wheelers,33,3846
+2022-11-01,DNH and DD,4-Wheelers,2,455
+2022-11-01,Delhi,4-Wheelers,483,15949
+2022-11-01,Goa,4-Wheelers,26,1797
+2022-11-01,Gujarat,4-Wheelers,374,36212
+2022-11-01,Haryana,4-Wheelers,133,21202
+2022-11-01,Himachal Pradesh,4-Wheelers,2,5135
+2022-11-01,Jharkhand,4-Wheelers,15,4657
+2022-11-01,Karnataka,4-Wheelers,564,23618
+2022-11-01,Kerala,4-Wheelers,325,15267
+2022-11-01,Madhya Pradesh,4-Wheelers,54,10575
+2022-11-01,Maharashtra,4-Wheelers,1144,35215
+2022-11-01,Odisha,4-Wheelers,53,5833
+2022-11-01,Puducherry,4-Wheelers,9,782
+2022-11-01,Rajasthan,4-Wheelers,113,15252
+2022-11-01,Tamil Nadu,4-Wheelers,311,20180
+2022-11-01,Uttar Pradesh,4-Wheelers,11,31886
+2022-11-01,Uttarakhand,4-Wheelers,31,5199
+2022-11-01,West Bengal,4-Wheelers,121,10465
+2022-12-01,Andaman & Nicobar Island,4-Wheelers,3,229
+2022-12-01,Andhra Pradesh,4-Wheelers,120,6769
+2022-12-01,Assam,4-Wheelers,4,8441
+2022-12-01,Bihar,4-Wheelers,5,4752
+2022-12-01,Chandigarh,4-Wheelers,46,2261
+2022-12-01,Chhattisgarh,4-Wheelers,40,3887
+2022-12-01,DNH and DD,4-Wheelers,2,365
+2022-12-01,Delhi,4-Wheelers,791,15492
+2022-12-01,Goa,4-Wheelers,30,1744
+2022-12-01,Gujarat,4-Wheelers,260,27614
+2022-12-01,Haryana,4-Wheelers,177,18223
+2022-12-01,Himachal Pradesh,4-Wheelers,7,4026
+2022-12-01,Jammu and Kashmir,4-Wheelers,4,5304
+2022-12-01,Jharkhand,4-Wheelers,22,3979
+2022-12-01,Karnataka,4-Wheelers,438,22142
+2022-12-01,Kerala,4-Wheelers,298,16601
+2022-12-01,Madhya Pradesh,4-Wheelers,35,11124
+2022-12-01,Maharashtra,4-Wheelers,887,32422
+2022-12-01,Odisha,4-Wheelers,42,6616
+2022-12-01,Puducherry,4-Wheelers,4,690
+2022-12-01,Rajasthan,4-Wheelers,110,12634
+2022-12-01,Tamil Nadu,4-Wheelers,406,20201
+2022-12-01,Uttar Pradesh,4-Wheelers,13,27230
+2022-12-01,Uttarakhand,4-Wheelers,24,3881
+2022-12-01,West Bengal,4-Wheelers,65,8047
+2023-01-01,Andhra Pradesh,4-Wheelers,121,10775
+2023-01-01,Assam,4-Wheelers,5,7240
+2023-01-01,Bihar,4-Wheelers,19,6600
+2023-01-01,Chandigarh,4-Wheelers,50,2500
+2023-01-01,Chhattisgarh,4-Wheelers,56,4880
+2023-01-01,Delhi,4-Wheelers,331,17993
+2023-01-01,Goa,4-Wheelers,44,1888
+2023-01-01,Gujarat,4-Wheelers,212,25859
+2023-01-01,Haryana,4-Wheelers,141,25164
+2023-01-01,Himachal Pradesh,4-Wheelers,5,4192
+2023-01-01,Jammu and Kashmir,4-Wheelers,4,4245
+2023-01-01,Jharkhand,4-Wheelers,41,5016
+2023-01-01,Karnataka,4-Wheelers,587,26011
+2023-01-01,Kerala,4-Wheelers,344,17267
+2023-01-01,Madhya Pradesh,4-Wheelers,69,17945
+2023-01-01,Maharashtra,4-Wheelers,827,44349
+2023-01-01,Manipur,4-Wheelers,3,892
+2023-01-01,Odisha,4-Wheelers,51,6278
+2023-01-01,Puducherry,4-Wheelers,3,1004
+2023-01-01,Rajasthan,4-Wheelers,155,18017
+2023-01-01,Tamil Nadu,4-Wheelers,202,24430
+2023-01-01,Uttar Pradesh,4-Wheelers,26,41439
+2023-01-01,Uttarakhand,4-Wheelers,16,5040
+2023-01-01,West Bengal,4-Wheelers,124,9141
+2023-02-01,Andhra Pradesh,4-Wheelers,116,6628
+2023-02-01,Assam,4-Wheelers,13,7029
+2023-02-01,Bihar,4-Wheelers,46,6117
+2023-02-01,Chandigarh,4-Wheelers,59,2061
+2023-02-01,Chhattisgarh,4-Wheelers,73,4196
+2023-02-01,DNH and DD,4-Wheelers,3,411
+2023-02-01,Delhi,4-Wheelers,510,14823
+2023-02-01,Goa,4-Wheelers,83,1760
+2023-02-01,Gujarat,4-Wheelers,271,28856
+2023-02-01,Haryana,4-Wheelers,175,19656
+2023-02-01,Himachal Pradesh,4-Wheelers,21,3952
+2023-02-01,Jammu and Kashmir,4-Wheelers,8,4449
+2023-02-01,Jharkhand,4-Wheelers,33,4234
+2023-02-01,Karnataka,4-Wheelers,616,21837
+2023-02-01,Kerala,4-Wheelers,662,14603
+2023-02-01,Madhya Pradesh,4-Wheelers,144,17295
+2023-02-01,Maharashtra,4-Wheelers,1012,30727
+2023-02-01,Manipur,4-Wheelers,5,756
+2023-02-01,Odisha,4-Wheelers,60,5397
+2023-02-01,Puducherry,4-Wheelers,3,703
+2023-02-01,Punjab,4-Wheelers,18,11765
+2023-02-01,Rajasthan,4-Wheelers,293,15819
+2023-02-01,Tamil Nadu,4-Wheelers,307,18758
+2023-02-01,Uttar Pradesh,4-Wheelers,60,32464
+2023-02-01,Uttarakhand,4-Wheelers,23,3985
+2023-02-01,West Bengal,4-Wheelers,142,8054
+2023-03-01,Andhra Pradesh,4-Wheelers,173,7764
+2023-03-01,Assam,4-Wheelers,20,8324
+2023-03-01,Bihar,4-Wheelers,47,6322
+2023-03-01,Chandigarh,4-Wheelers,131,2589
+2023-03-01,Chhattisgarh,4-Wheelers,95,5119
+2023-03-01,DNH and DD,4-Wheelers,2,485
+2023-03-01,Delhi,4-Wheelers,1544,18638
+2023-03-01,Goa,4-Wheelers,112,2439
+2023-03-01,Gujarat,4-Wheelers,498,26082
+2023-03-01,Haryana,4-Wheelers,477,21547
+2023-03-01,Himachal Pradesh,4-Wheelers,7,3574
+2023-03-01,Jammu and Kashmir,4-Wheelers,17,5388
+2023-03-01,Jharkhand,4-Wheelers,52,4670
+2023-03-01,Karnataka,4-Wheelers,1062,28169
+2023-03-01,Kerala,4-Wheelers,1107,24727
+2023-03-01,Madhya Pradesh,4-Wheelers,159,14745
+2023-03-01,Maharashtra,4-Wheelers,1389,42854
+2023-03-01,Odisha,4-Wheelers,74,6358
+2023-03-01,Puducherry,4-Wheelers,4,999
+2023-03-01,Punjab,4-Wheelers,13,12430
+2023-03-01,Rajasthan,4-Wheelers,425,18370
+2023-03-01,Tamil Nadu,4-Wheelers,571,22131
+2023-03-01,Tripura,4-Wheelers,9,329
+2023-03-01,Uttar Pradesh,4-Wheelers,431,34186
+2023-03-01,Uttarakhand,4-Wheelers,48,4596
+2023-03-01,West Bengal,4-Wheelers,352,8955
+2023-04-01,Andhra Pradesh,4-Wheelers,225,7229
+2023-04-01,Assam,4-Wheelers,20,7022
+2023-04-01,Bihar,4-Wheelers,40,5840
+2023-04-01,Chandigarh,4-Wheelers,62,2482
+2023-04-01,Chhattisgarh,4-Wheelers,93,5558
+2023-04-01,Delhi,4-Wheelers,551,14861
+2023-04-01,Goa,4-Wheelers,57,1633
+2023-04-01,Gujarat,4-Wheelers,537,28451
+2023-04-01,Haryana,4-Wheelers,363,21914
+2023-04-01,Himachal Pradesh,4-Wheelers,9,3880
+2023-04-01,Jammu and Kashmir,4-Wheelers,4,3728
+2023-04-01,Jharkhand,4-Wheelers,39,4281
+2023-04-01,Karnataka,4-Wheelers,762,22368
+2023-04-01,Kerala,4-Wheelers,637,9171
+2023-04-01,Madhya Pradesh,4-Wheelers,95,10894
+2023-04-01,Maharashtra,4-Wheelers,1139,35336
+2023-04-01,Meghalaya,4-Wheelers,2,1094
+2023-04-01,Odisha,4-Wheelers,84,5315
+2023-04-01,Puducherry,4-Wheelers,5,735
+2023-04-01,Punjab,4-Wheelers,22,9734
+2023-04-01,Rajasthan,4-Wheelers,291,14377
+2023-04-01,Tamil Nadu,4-Wheelers,399,18659
+2023-04-01,Uttar Pradesh,4-Wheelers,364,32143
+2023-04-01,Uttarakhand,4-Wheelers,47,4887
+2023-04-01,West Bengal,4-Wheelers,152,7999
+2023-05-01,Andhra Pradesh,4-Wheelers,216,8095
+2023-05-01,Assam,4-Wheelers,30,6994
+2023-05-01,Bihar,4-Wheelers,46,6865
+2023-05-01,Chandigarh,4-Wheelers,83,2556
+2023-05-01,Chhattisgarh,4-Wheelers,185,3785
+2023-05-01,DNH and DD,4-Wheelers,4,416
+2023-05-01,Delhi,4-Wheelers,787,16609
+2023-05-01,Goa,4-Wheelers,85,1878
+2023-05-01,Gujarat,4-Wheelers,710,25770
+2023-05-01,Haryana,4-Wheelers,211,21218
+2023-05-01,Himachal Pradesh,4-Wheelers,21,3565
+2023-05-01,Jammu and Kashmir,4-Wheelers,14,5095
+2023-05-01,Jharkhand,4-Wheelers,37,4755
+2023-05-01,Karnataka,4-Wheelers,999,22601
+2023-05-01,Kerala,4-Wheelers,954,14819
+2023-05-01,Madhya Pradesh,4-Wheelers,136,12488
+2023-05-01,Maharashtra,4-Wheelers,1137,35179
+2023-05-01,Manipur,4-Wheelers,4,119
+2023-05-01,Meghalaya,4-Wheelers,2,1027
+2023-05-01,Odisha,4-Wheelers,105,5951
+2023-05-01,Puducherry,4-Wheelers,6,943
+2023-05-01,Punjab,4-Wheelers,63,11047
+2023-05-01,Rajasthan,4-Wheelers,419,16157
+2023-05-01,Tamil Nadu,4-Wheelers,529,20789
+2023-05-01,Tripura,4-Wheelers,2,436
+2023-05-01,Uttar Pradesh,4-Wheelers,472,34515
+2023-05-01,Uttarakhand,4-Wheelers,61,4675
+2023-05-01,West Bengal,4-Wheelers,322,8672
+2023-06-01,Andhra Pradesh,4-Wheelers,156,6611
+2023-06-01,Assam,4-Wheelers,28,6751
+2023-06-01,Bihar,4-Wheelers,52,6134
+2023-06-01,Chandigarh,4-Wheelers,77,2597
+2023-06-01,Chhattisgarh,4-Wheelers,114,3650
+2023-06-01,Delhi,4-Wheelers,935,15723
+2023-06-01,Goa,4-Wheelers,75,1699
+2023-06-01,Gujarat,4-Wheelers,698,24829
+2023-06-01,Haryana,4-Wheelers,263,21135
+2023-06-01,Himachal Pradesh,4-Wheelers,19,3448
+2023-06-01,Jammu and Kashmir,4-Wheelers,18,4437
+2023-06-01,Jharkhand,4-Wheelers,48,4320
+2023-06-01,Karnataka,4-Wheelers,1142,24603
+2023-06-01,Kerala,4-Wheelers,885,14389
+2023-06-01,Madhya Pradesh,4-Wheelers,107,10927
+2023-06-01,Maharashtra,4-Wheelers,1360,36069
+2023-06-01,Meghalaya,4-Wheelers,2,950
+2023-06-01,Odisha,4-Wheelers,89,5873
+2023-06-01,Puducherry,4-Wheelers,8,910
+2023-06-01,Punjab,4-Wheelers,76,10547
+2023-06-01,Rajasthan,4-Wheelers,380,15534
+2023-06-01,Tamil Nadu,4-Wheelers,572,22976
+2023-06-01,Tripura,4-Wheelers,2,375
+2023-06-01,Uttar Pradesh,4-Wheelers,393,30578
+2023-06-01,Uttarakhand,4-Wheelers,42,4393
+2023-06-01,West Bengal,4-Wheelers,247,8471
+2023-07-01,Andaman & Nicobar Island,4-Wheelers,3,163
+2023-07-01,Andhra Pradesh,4-Wheelers,157,6820
+2023-07-01,Arunachal Pradesh,4-Wheelers,2,1069
+2023-07-01,Assam,4-Wheelers,23,7381
+2023-07-01,Bihar,4-Wheelers,58,5189
+2023-07-01,Chandigarh,4-Wheelers,71,2326
+2023-07-01,Chhattisgarh,4-Wheelers,94,3346
+2023-07-01,DNH and DD,4-Wheelers,4,391
+2023-07-01,Delhi,4-Wheelers,831,15285
+2023-07-01,Goa,4-Wheelers,84,1739
+2023-07-01,Gujarat,4-Wheelers,692,27755
+2023-07-01,Haryana,4-Wheelers,92,11915
+2023-07-01,Himachal Pradesh,4-Wheelers,12,3956
+2023-07-01,Jammu and Kashmir,4-Wheelers,11,4435
+2023-07-01,Jharkhand,4-Wheelers,31,4010
+2023-07-01,Karnataka,4-Wheelers,1221,23154
+2023-07-01,Kerala,4-Wheelers,871,14002
+2023-07-01,Madhya Pradesh,4-Wheelers,138,10811
+2023-07-01,Maharashtra,4-Wheelers,1103,36082
+2023-07-01,Manipur,4-Wheelers,6,427
+2023-07-01,Meghalaya,4-Wheelers,3,1030
+2023-07-01,Odisha,4-Wheelers,134,5745
+2023-07-01,Puducherry,4-Wheelers,7,809
+2023-07-01,Punjab,4-Wheelers,92,10766
+2023-07-01,Rajasthan,4-Wheelers,405,14064
+2023-07-01,Tamil Nadu,4-Wheelers,630,20553
+2023-07-01,Tripura,4-Wheelers,2,578
+2023-07-01,Uttar Pradesh,4-Wheelers,420,29214
+2023-07-01,Uttarakhand,4-Wheelers,53,4216
+2023-07-01,West Bengal,4-Wheelers,179,8111
+2023-08-01,Andaman & Nicobar Island,4-Wheelers,3,183
+2023-08-01,Andhra Pradesh,4-Wheelers,104,7397
+2023-08-01,Arunachal Pradesh,4-Wheelers,4,1121
+2023-08-01,Assam,4-Wheelers,27,7557
+2023-08-01,Bihar,4-Wheelers,53,5334
+2023-08-01,Chandigarh,4-Wheelers,80,1937
+2023-08-01,Chhattisgarh,4-Wheelers,107,3859
+2023-08-01,Delhi,4-Wheelers,440,15852
+2023-08-01,Goa,4-Wheelers,98,2177
+2023-08-01,Gujarat,4-Wheelers,512,25572
+2023-08-01,Haryana,4-Wheelers,189,24414
+2023-08-01,Himachal Pradesh,4-Wheelers,11,3975
+2023-08-01,Jammu and Kashmir,4-Wheelers,15,4843
+2023-08-01,Jharkhand,4-Wheelers,52,4040
+2023-08-01,Karnataka,4-Wheelers,1196,28235
+2023-08-01,Kerala,4-Wheelers,736,18189
+2023-08-01,Madhya Pradesh,4-Wheelers,112,11479
+2023-08-01,Maharashtra,4-Wheelers,1070,40169
+2023-08-01,Manipur,4-Wheelers,6,458
+2023-08-01,Meghalaya,4-Wheelers,3,1215
+2023-08-01,Odisha,4-Wheelers,146,6282
+2023-08-01,Puducherry,4-Wheelers,14,955
+2023-08-01,Punjab,4-Wheelers,75,11493
+2023-08-01,Rajasthan,4-Wheelers,396,14786
+2023-08-01,Tamil Nadu,4-Wheelers,591,23537
+2023-08-01,Tripura,4-Wheelers,2,466
+2023-08-01,Uttar Pradesh,4-Wheelers,482,29829
+2023-08-01,Uttarakhand,4-Wheelers,50,4283
+2023-08-01,West Bengal,4-Wheelers,178,9101
+2023-09-01,Andhra Pradesh,4-Wheelers,59,7044
+2023-09-01,Arunachal Pradesh,4-Wheelers,4,1003
+2023-09-01,Assam,4-Wheelers,23,8078
+2023-09-01,Bihar,4-Wheelers,60,5210
+2023-09-01,Chandigarh,4-Wheelers,54,1491
+2023-09-01,Chhattisgarh,4-Wheelers,83,3993
+2023-09-01,DNH and DD,4-Wheelers,6,468
+2023-09-01,Delhi,4-Wheelers,380,15776
+2023-09-01,Goa,4-Wheelers,69,2801
+2023-09-01,Gujarat,4-Wheelers,633,36818
+2023-09-01,Haryana,4-Wheelers,92,24045
+2023-09-01,Himachal Pradesh,4-Wheelers,9,3683
+2023-09-01,Jammu and Kashmir,4-Wheelers,9,4430
+2023-09-01,Jharkhand,4-Wheelers,22,4600
+2023-09-01,Karnataka,4-Wheelers,942,24184
+2023-09-01,Kerala,4-Wheelers,773,21467
+2023-09-01,Madhya Pradesh,4-Wheelers,117,11748
+2023-09-01,Maharashtra,4-Wheelers,869,43063
+2023-09-01,Meghalaya,4-Wheelers,3,1139
+2023-09-01,Odisha,4-Wheelers,101,6354
+2023-09-01,Puducherry,4-Wheelers,10,912
+2023-09-01,Punjab,4-Wheelers,83,12368
+2023-09-01,Rajasthan,4-Wheelers,375,16356
+2023-09-01,Tamil Nadu,4-Wheelers,543,22461
+2023-09-01,Tripura,4-Wheelers,3,470
+2023-09-01,Uttar Pradesh,4-Wheelers,476,29087
+2023-09-01,Uttarakhand,4-Wheelers,30,4234
+2023-09-01,West Bengal,4-Wheelers,218,9011
+2023-10-01,Andhra Pradesh,4-Wheelers,68,7743
+2023-10-01,Arunachal Pradesh,4-Wheelers,2,1111
+2023-10-01,Assam,4-Wheelers,24,9481
+2023-10-01,Bihar,4-Wheelers,57,6068
+2023-10-01,Chandigarh,4-Wheelers,71,1722
+2023-10-01,Chhattisgarh,4-Wheelers,79,4920
+2023-10-01,DNH and DD,4-Wheelers,12,620
+2023-10-01,Delhi,4-Wheelers,519,16459
+2023-10-01,Goa,4-Wheelers,87,2094
+2023-10-01,Gujarat,4-Wheelers,670,42365
+2023-10-01,Haryana,4-Wheelers,220,20543
+2023-10-01,Himachal Pradesh,4-Wheelers,7,3066
+2023-10-01,Jammu and Kashmir,4-Wheelers,10,4603
+2023-10-01,Jharkhand,4-Wheelers,30,4837
+2023-10-01,Karnataka,4-Wheelers,1154,25652
+2023-10-01,Kerala,4-Wheelers,642,14522
+2023-10-01,Madhya Pradesh,4-Wheelers,112,13646
+2023-10-01,Maharashtra,4-Wheelers,1404,47126
+2023-10-01,Manipur,4-Wheelers,2,272
+2023-10-01,Odisha,4-Wheelers,130,8500
+2023-10-01,Puducherry,4-Wheelers,7,990
+2023-10-01,Punjab,4-Wheelers,94,11396
+2023-10-01,Rajasthan,4-Wheelers,464,18951
+2023-10-01,Tamil Nadu,4-Wheelers,556,28342
+2023-10-01,Tripura,4-Wheelers,3,497
+2023-10-01,Uttar Pradesh,4-Wheelers,512,33774
+2023-10-01,Uttarakhand,4-Wheelers,34,4562
+2023-10-01,West Bengal,4-Wheelers,238,9972
+2023-11-01,Andhra Pradesh,4-Wheelers,98,8220
+2023-11-01,Arunachal Pradesh,4-Wheelers,3,1226
+2023-11-01,Assam,4-Wheelers,26,7960
+2023-11-01,Bihar,4-Wheelers,50,9075
+2023-11-01,Chandigarh,4-Wheelers,88,1805
+2023-11-01,Chhattisgarh,4-Wheelers,99,5877
+2023-11-01,DNH and DD,4-Wheelers,3,590
+2023-11-01,Delhi,4-Wheelers,538,18675
+2023-11-01,Goa,4-Wheelers,97,2521
+2023-11-01,Gujarat,4-Wheelers,592,32601
+2023-11-01,Haryana,4-Wheelers,215,22002
+2023-11-01,Himachal Pradesh,4-Wheelers,15,4242
+2023-11-01,Jammu and Kashmir,4-Wheelers,18,4981
+2023-11-01,Jharkhand,4-Wheelers,40,6684
+2023-11-01,Karnataka,4-Wheelers,822,26232
+2023-11-01,Kerala,4-Wheelers,641,12551
+2023-11-01,Madhya Pradesh,4-Wheelers,137,17166
+2023-11-01,Maharashtra,4-Wheelers,1315,48131
+2023-11-01,Manipur,4-Wheelers,2,246
+2023-11-01,Meghalaya,4-Wheelers,2,1387
+2023-11-01,Odisha,4-Wheelers,177,7105
+2023-11-01,Puducherry,4-Wheelers,11,990
+2023-11-01,Punjab,4-Wheelers,128,12992
+2023-11-01,Rajasthan,4-Wheelers,539,24386
+2023-11-01,Tamil Nadu,4-Wheelers,599,19015
+2023-11-01,Tripura,4-Wheelers,2,657
+2023-11-01,Uttar Pradesh,4-Wheelers,446,42692
+2023-11-01,Uttarakhand,4-Wheelers,47,5398
+2023-11-01,West Bengal,4-Wheelers,290,9743
+2023-12-01,Andaman & Nicobar Island,4-Wheelers,2,175
+2023-12-01,Andhra Pradesh,4-Wheelers,130,7155
+2023-12-01,Arunachal Pradesh,4-Wheelers,2,1137
+2023-12-01,Assam,4-Wheelers,30,8111
+2023-12-01,Bihar,4-Wheelers,59,4788
+2023-12-01,Chandigarh,4-Wheelers,130,1496
+2023-12-01,Chhattisgarh,4-Wheelers,93,3575
+2023-12-01,DNH and DD,4-Wheelers,5,488
+2023-12-01,Delhi,4-Wheelers,811,16567
+2023-12-01,Goa,4-Wheelers,71,1859
+2023-12-01,Gujarat,4-Wheelers,548,26023
+2023-12-01,Haryana,4-Wheelers,218,23698
+2023-12-01,Himachal Pradesh,4-Wheelers,16,5710
+2023-12-01,Jammu and Kashmir,4-Wheelers,15,4531
+2023-12-01,Jharkhand,4-Wheelers,27,4375
+2023-12-01,Karnataka,4-Wheelers,1155,22859
+2023-12-01,Kerala,4-Wheelers,736,13811
+2023-12-01,Madhya Pradesh,4-Wheelers,134,9736
+2023-12-01,Maharashtra,4-Wheelers,1125,32212
+2023-12-01,Manipur,4-Wheelers,2,206
+2023-12-01,Odisha,4-Wheelers,186,7280
+2023-12-01,Puducherry,4-Wheelers,12,860
+2023-12-01,Punjab,4-Wheelers,116,13632
+2023-12-01,Rajasthan,4-Wheelers,348,13082
+2023-12-01,Tamil Nadu,4-Wheelers,520,19246
+2023-12-01,Tripura,4-Wheelers,4,489
+2023-12-01,Uttar Pradesh,4-Wheelers,498,29434
+2023-12-01,Uttarakhand,4-Wheelers,37,5430
+2023-12-01,West Bengal,4-Wheelers,160,8435
+2024-01-01,Uttar Pradesh,4-Wheelers,399,44334
+2024-01-01,Maharashtra,4-Wheelers,1289,50156
+2024-01-01,Karnataka,4-Wheelers,1080,30770
+2024-01-01,Tamil Nadu,4-Wheelers,626,28455
+2024-01-01,Bihar,4-Wheelers,58,6824
+2024-01-01,Kerala,4-Wheelers,734,164
+2024-01-01,Rajasthan,4-Wheelers,498,21747
+2024-01-01,Delhi,4-Wheelers,1345,21520
+2024-01-01,Madhya Pradesh,4-Wheelers,172,19326
+2024-01-01,Gujarat,4-Wheelers,494,33379
+2024-01-01,Odisha,4-Wheelers,150,7500
+2024-01-01,Assam,4-Wheelers,21,7242
+2024-01-01,Haryana,4-Wheelers,282,28776
+2024-01-01,Chhattisgarh,4-Wheelers,91,4946
+2024-01-01,West Bengal,4-Wheelers,184,10223
+2024-01-01,Punjab,4-Wheelers,105,15000
+2024-01-01,Andhra Pradesh,4-Wheelers,123,8483
+2024-01-01,Jharkhand,4-Wheelers,29,4678
+2024-01-01,Uttarakhand,4-Wheelers,49,5385
+2024-01-01,Jammu and Kashmir,4-Wheelers,10,5264
+2024-01-01,Goa,4-Wheelers,86,2331
+2024-01-01,Chandigarh,4-Wheelers,101,1624
+2024-01-01,Tripura,4-Wheelers,2,466
+2024-01-01,Puducherry,4-Wheelers,10,1250
+2024-01-01,Himachal Pradesh,4-Wheelers,13,4815
+2024-01-01,DNH and DD,4-Wheelers,3,527
+2024-01-01,Manipur,4-Wheelers,7,433
+2024-01-01,Arunachal Pradesh,4-Wheelers,5,1174
+2024-02-01,Uttar Pradesh,4-Wheelers,394,37170
+2024-02-01,Maharashtra,4-Wheelers,1227,36302
+2024-02-01,Karnataka,4-Wheelers,923,24812
+2024-02-01,Tamil Nadu,4-Wheelers,595,23063
+2024-02-01,Rajasthan,4-Wheelers,517,19149
+2024-02-01,Bihar,4-Wheelers,71,6762
+2024-02-01,Madhya Pradesh,4-Wheelers,146,18025
+2024-02-01,Kerala,4-Wheelers,684,12281
+2024-02-01,Gujarat,4-Wheelers,510,25758
+2024-02-01,Delhi,4-Wheelers,596,17898
+2024-02-01,Assam,4-Wheelers,24,6858
+2024-02-01,Odisha,4-Wheelers,203,6305
+2024-02-01,Chhattisgarh,4-Wheelers,99,4125
+2024-02-01,Punjab,4-Wheelers,111,14051
+2024-02-01,Andhra Pradesh,4-Wheelers,128,6125
+2024-02-01,Haryana,4-Wheelers,312,26000
+2024-02-01,West Bengal,4-Wheelers,185,8487
+2024-02-01,Jharkhand,4-Wheelers,42,4667
+2024-02-01,Uttarakhand,4-Wheelers,60,5826
+2024-02-01,Jammu and Kashmir,4-Wheelers,24,4211
+2024-02-01,Goa,4-Wheelers,99,1772
+2024-02-01,Tripura,4-Wheelers,5,538
+2024-02-01,Chandigarh,4-Wheelers,84,1321
+2024-02-01,Puducherry,4-Wheelers,16,1177
+2024-02-01,Himachal Pradesh,4-Wheelers,11,4584
+2024-02-01,Manipur,4-Wheelers,7,310
+2024-02-01,DNH and DD,4-Wheelers,5,444
+2024-02-01,Meghalaya,4-Wheelers,4,1261
+2024-02-01,Arunachal Pradesh,4-Wheelers,4,1184
+2024-03-01,Maharashtra,4-Wheelers,1079,36826
+2024-03-01,Uttar Pradesh,4-Wheelers,389,34425
+2024-03-01,Karnataka,4-Wheelers,1482,26751
+2024-03-01,Tamil Nadu,4-Wheelers,749,22095
+2024-03-01,Rajasthan,4-Wheelers,493,16942
+2024-03-01,Delhi,4-Wheelers,897,15905
+2024-03-01,Kerala,4-Wheelers,876,13861
+2024-03-01,Gujarat,4-Wheelers,661,25424
+2024-03-01,Bihar,4-Wheelers,99,6972
+2024-03-01,Madhya Pradesh,4-Wheelers,143,14743
+2024-03-01,Andhra Pradesh,4-Wheelers,366,7838
+2024-03-01,Assam,4-Wheelers,53,7465
+2024-03-01,Chhattisgarh,4-Wheelers,120,4348
+2024-03-01,Punjab,4-Wheelers,132,14348
+2024-03-01,West Bengal,4-Wheelers,495,8089
+2024-03-01,Haryana,4-Wheelers,305,23644
+2024-03-01,Jharkhand,4-Wheelers,52,4483
+2024-03-01,Goa,4-Wheelers,123,1730
+2024-03-01,Uttarakhand,4-Wheelers,51,4812
+2024-03-01,Jammu and Kashmir,4-Wheelers,18,4500
+2024-03-01,Tripura,4-Wheelers,3,556
+2024-03-01,Chandigarh,4-Wheelers,119,1294
+2024-03-01,Puducherry,4-Wheelers,5,1042
+2024-03-01,Meghalaya,4-Wheelers,3,1200
+2024-03-01,Himachal Pradesh,4-Wheelers,17,4147
+2024-03-01,DNH and DD,4-Wheelers,4,429
+2024-03-01,Manipur,4-Wheelers,2,370
+2021-04-01,Andhra Pradesh,2-Wheelers,436,63444
+2021-04-01,Assam,2-Wheelers,7,30344
+2021-04-01,Bihar,2-Wheelers,47,81056
+2021-04-01,Chandigarh,2-Wheelers,6,1200
+2021-04-01,Chhattisgarh,2-Wheelers,36,10274
+2021-04-01,Delhi,2-Wheelers,272,14233
+2021-04-01,Goa,2-Wheelers,36,3374
+2021-04-01,Gujarat,2-Wheelers,98,49005
+2021-04-01,Haryana,2-Wheelers,101,31078
+2021-04-01,Himachal Pradesh,2-Wheelers,9,4360
+2021-04-01,Jammu and Kashmir,2-Wheelers,22,6874
+2021-04-01,Jharkhand,2-Wheelers,80,26969
+2021-04-01,Karnataka,2-Wheelers,1549,59979
+2021-04-01,Kerala,2-Wheelers,379,57624
+2021-04-01,Madhya Pradesh,2-Wheelers,126,29491
+2021-04-01,Maharashtra,2-Wheelers,428,45515
+2021-04-01,Manipur,2-Wheelers,2,3048
+2021-04-01,Odisha,2-Wheelers,191,36953
+2021-04-01,Puducherry,2-Wheelers,18,2581
+2021-04-01,Punjab,2-Wheelers,9,24348
+2021-04-01,Rajasthan,2-Wheelers,325,48828
+2021-04-01,Tamil Nadu,2-Wheelers,1297,107658
+2021-04-01,Uttar Pradesh,2-Wheelers,171,137840
+2021-04-01,Uttarakhand,2-Wheelers,34,7607
+2021-04-01,West Bengal,2-Wheelers,9,65885
+2021-05-01,Andhra Pradesh,2-Wheelers,201,41370
+2021-05-01,Bihar,2-Wheelers,8,55276
+2021-05-01,Chhattisgarh,2-Wheelers,6,5280
+2021-05-01,Goa,2-Wheelers,27,379
+2021-05-01,Gujarat,2-Wheelers,106,33419
+2021-05-01,Haryana,2-Wheelers,17,7315
+2021-05-01,Himachal Pradesh,2-Wheelers,4,1721
+2021-05-01,Jammu and Kashmir,2-Wheelers,50,1916
+2021-05-01,Jharkhand,2-Wheelers,39,21680
+2021-05-01,Karnataka,2-Wheelers,140,4942
+2021-05-01,Kerala,2-Wheelers,95,6675
+2021-05-01,Maharashtra,2-Wheelers,189,16627
+2021-05-01,Odisha,2-Wheelers,28,5900
+2021-05-01,Puducherry,2-Wheelers,3,314
+2021-05-01,Punjab,2-Wheelers,21,14366
+2021-05-01,Rajasthan,2-Wheelers,33,18802
+2021-05-01,Tamil Nadu,2-Wheelers,237,17837
+2021-05-01,Uttar Pradesh,2-Wheelers,25,147458
+2021-05-01,Uttarakhand,2-Wheelers,6,2957
+2021-05-01,West Bengal,2-Wheelers,6,28906
+2021-06-01,Andhra Pradesh,2-Wheelers,369,53867
+2021-06-01,Assam,2-Wheelers,6,22586
+2021-06-01,Bihar,2-Wheelers,67,100771
+2021-06-01,Chandigarh,2-Wheelers,2,1314
+2021-06-01,Chhattisgarh,2-Wheelers,138,31808
+2021-06-01,DNH and DD,2-Wheelers,2,627
+2021-06-01,Delhi,2-Wheelers,205,22186
+2021-06-01,Goa,2-Wheelers,17,1533
+2021-06-01,Gujarat,2-Wheelers,207,59121
+2021-06-01,Haryana,2-Wheelers,74,31957
+2021-06-01,Himachal Pradesh,2-Wheelers,25,5098
+2021-06-01,Jammu and Kashmir,2-Wheelers,87,8677
+2021-06-01,Jharkhand,2-Wheelers,42,33533
+2021-06-01,Karnataka,2-Wheelers,560,19402
+2021-06-01,Kerala,2-Wheelers,184,17828
+2021-06-01,Madhya Pradesh,2-Wheelers,227,90928
+2021-06-01,Maharashtra,2-Wheelers,891,75098
+2021-06-01,Odisha,2-Wheelers,147,23193
+2021-06-01,Puducherry,2-Wheelers,31,2559
+2021-06-01,Punjab,2-Wheelers,71,23393
+2021-06-01,Rajasthan,2-Wheelers,515,59809
+2021-06-01,Tamil Nadu,2-Wheelers,660,45197
+2021-06-01,Uttar Pradesh,2-Wheelers,92,264409
+2021-06-01,Uttarakhand,2-Wheelers,37,9766
+2021-06-01,West Bengal,2-Wheelers,12,67354
+2021-07-01,Andhra Pradesh,2-Wheelers,811,58165
+2021-07-01,Assam,2-Wheelers,22,22521
+2021-07-01,Bihar,2-Wheelers,189,70562
+2021-07-01,Chandigarh,2-Wheelers,11,1286
+2021-07-01,Chhattisgarh,2-Wheelers,253,30642
+2021-07-01,DNH and DD,2-Wheelers,3,704
+2021-07-01,Delhi,2-Wheelers,818,24955
+2021-07-01,Goa,2-Wheelers,64,1694
+2021-07-01,Gujarat,2-Wheelers,358,68641
+2021-07-01,Haryana,2-Wheelers,134,24476
+2021-07-01,Himachal Pradesh,2-Wheelers,18,6543
+2021-07-01,Jammu and Kashmir,2-Wheelers,203,10104
+2021-07-01,Jharkhand,2-Wheelers,108,29512
+2021-07-01,Karnataka,2-Wheelers,3384,84001
+2021-07-01,Kerala,2-Wheelers,456,41455
+2021-07-01,Madhya Pradesh,2-Wheelers,469,99094
+2021-07-01,Maharashtra,2-Wheelers,2101,146083
+2021-07-01,Odisha,2-Wheelers,324,38080
+2021-07-01,Puducherry,2-Wheelers,38,3592
+2021-07-01,Punjab,2-Wheelers,318,27261
+2021-07-01,Rajasthan,2-Wheelers,1378,67308
+2021-07-01,Tamil Nadu,2-Wheelers,2801,122808
+2021-07-01,Uttar Pradesh,2-Wheelers,303,215180
+2021-07-01,Uttarakhand,2-Wheelers,76,12268
+2021-07-01,West Bengal,2-Wheelers,36,76665
+2021-08-01,Andhra Pradesh,2-Wheelers,666,58473
+2021-08-01,Assam,2-Wheelers,26,25097
+2021-08-01,Bihar,2-Wheelers,191,54618
+2021-08-01,Chandigarh,2-Wheelers,19,1380
+2021-08-01,Chhattisgarh,2-Wheelers,238,27491
+2021-08-01,DNH and DD,2-Wheelers,2,584
+2021-08-01,Delhi,2-Wheelers,995,26069
+2021-08-01,Goa,2-Wheelers,22,2316
+2021-08-01,Gujarat,2-Wheelers,584,54721
+2021-08-01,Haryana,2-Wheelers,441,30342
+2021-08-01,Himachal Pradesh,2-Wheelers,32,5430
+2021-08-01,Jammu and Kashmir,2-Wheelers,122,9978
+2021-08-01,Jharkhand,2-Wheelers,137,26589
+2021-08-01,Karnataka,2-Wheelers,3319,79751
+2021-08-01,Kerala,2-Wheelers,598,52507
+2021-08-01,Madhya Pradesh,2-Wheelers,457,67859
+2021-08-01,Maharashtra,2-Wheelers,2419,119076
+2021-08-01,Odisha,2-Wheelers,485,33821
+2021-08-01,Puducherry,2-Wheelers,34,3496
+2021-08-01,Punjab,2-Wheelers,342,27376
+2021-08-01,Rajasthan,2-Wheelers,1451,57021
+2021-08-01,Tamil Nadu,2-Wheelers,2745,109440
+2021-08-01,Uttar Pradesh,2-Wheelers,531,146734
+2021-08-01,Uttarakhand,2-Wheelers,114,11192
+2021-08-01,West Bengal,2-Wheelers,80,63613
+2021-09-01,Andhra Pradesh,2-Wheelers,766,51764
+2021-09-01,Assam,2-Wheelers,38,24438
+2021-09-01,Bihar,2-Wheelers,475,48021
+2021-09-01,Chandigarh,2-Wheelers,25,1162
+2021-09-01,Chhattisgarh,2-Wheelers,244,24790
+2021-09-01,Delhi,2-Wheelers,809,17347
+2021-09-01,Goa,2-Wheelers,87,3081
+2021-09-01,Gujarat,2-Wheelers,959,71820
+2021-09-01,Haryana,2-Wheelers,691,32590
+2021-09-01,Himachal Pradesh,2-Wheelers,33,4975
+2021-09-01,Jammu and Kashmir,2-Wheelers,157,7354
+2021-09-01,Jharkhand,2-Wheelers,149,24528
+2021-09-01,Karnataka,2-Wheelers,3539,80292
+2021-09-01,Kerala,2-Wheelers,789,48245
+2021-09-01,Madhya Pradesh,2-Wheelers,590,65166
+2021-09-01,Maharashtra,2-Wheelers,2166,92351
+2021-09-01,Odisha,2-Wheelers,490,28355
+2021-09-01,Puducherry,2-Wheelers,48,3211
+2021-09-01,Punjab,2-Wheelers,487,24819
+2021-09-01,Rajasthan,2-Wheelers,1625,48502
+2021-09-01,Tamil Nadu,2-Wheelers,2880,108477
+2021-09-01,Uttar Pradesh,2-Wheelers,730,132962
+2021-09-01,Uttarakhand,2-Wheelers,169,9926
+2021-09-01,West Bengal,2-Wheelers,84,65430
+2021-10-01,Andhra Pradesh,2-Wheelers,993,88110
+2021-10-01,Assam,2-Wheelers,28,32155
+2021-10-01,Bihar,2-Wheelers,470,50679
+2021-10-01,Chandigarh,2-Wheelers,18,1792
+2021-10-01,Chhattisgarh,2-Wheelers,301,33464
+2021-10-01,Delhi,2-Wheelers,995,26087
+2021-10-01,Goa,2-Wheelers,163,3914
+2021-10-01,Gujarat,2-Wheelers,1460,84700
+2021-10-01,Haryana,2-Wheelers,505,26891
+2021-10-01,Himachal Pradesh,2-Wheelers,29,4651
+2021-10-01,Jammu and Kashmir,2-Wheelers,199,8601
+2021-10-01,Jharkhand,2-Wheelers,253,28877
+2021-10-01,Karnataka,2-Wheelers,3709,76401
+2021-10-01,Kerala,2-Wheelers,833,42377
+2021-10-01,Ladakh,2-Wheelers,6,18
+2021-10-01,Madhya Pradesh,2-Wheelers,545,52075
+2021-10-01,Maharashtra,2-Wheelers,3554,131332
+2021-10-01,Manipur,2-Wheelers,6,2098
+2021-10-01,Odisha,2-Wheelers,948,52708
+2021-10-01,Puducherry,2-Wheelers,31,2839
+2021-10-01,Punjab,2-Wheelers,416,29940
+2021-10-01,Rajasthan,2-Wheelers,1602,65626
+2021-10-01,Tamil Nadu,2-Wheelers,2530,85674
+2021-10-01,Uttar Pradesh,2-Wheelers,1022,129924
+2021-10-01,Uttarakhand,2-Wheelers,129,12826
+2021-10-01,West Bengal,2-Wheelers,67,53475
+2021-11-01,Andhra Pradesh,2-Wheelers,1114,64835
+2021-11-01,Assam,2-Wheelers,120,29586
+2021-11-01,Bihar,2-Wheelers,604,107209
+2021-11-01,Chandigarh,2-Wheelers,79,2083
+2021-11-01,Chhattisgarh,2-Wheelers,509,63099
+2021-11-01,Delhi,2-Wheelers,1269,37710
+2021-11-01,Goa,2-Wheelers,178,4104
+2021-11-01,Gujarat,2-Wheelers,1569,110759
+2021-11-01,Haryana,2-Wheelers,871,43957
+2021-11-01,Himachal Pradesh,2-Wheelers,61,7398
+2021-11-01,Jammu and Kashmir,2-Wheelers,64,8083
+2021-11-01,Jharkhand,2-Wheelers,370,51355
+2021-11-01,Karnataka,2-Wheelers,3430,74444
+2021-11-01,Kerala,2-Wheelers,948,43718
+2021-11-01,Madhya Pradesh,2-Wheelers,940,99568
+2021-11-01,Maharashtra,2-Wheelers,3684,168326
+2021-11-01,Manipur,2-Wheelers,3,2490
+2021-11-01,Odisha,2-Wheelers,843,41128
+2021-11-01,Puducherry,2-Wheelers,47,2889
+2021-11-01,Punjab,2-Wheelers,803,46549
+2021-11-01,Rajasthan,2-Wheelers,2265,141368
+2021-11-01,Tamil Nadu,2-Wheelers,2844,111203
+2021-11-01,Uttar Pradesh,2-Wheelers,1347,225370
+2021-11-01,Uttarakhand,2-Wheelers,262,20977
+2021-11-01,West Bengal,2-Wheelers,309,79819
+2021-12-01,Andhra Pradesh,2-Wheelers,985,42446
+2021-12-01,Assam,2-Wheelers,93,28392
+2021-12-01,Bihar,2-Wheelers,467,63454
+2021-12-01,Chandigarh,2-Wheelers,30,1252
+2021-12-01,Chhattisgarh,2-Wheelers,500,24772
+2021-12-01,DNH and DD,2-Wheelers,4,1100
+2021-12-01,Delhi,2-Wheelers,1258,18687
+2021-12-01,Goa,2-Wheelers,153,3468
+2021-12-01,Gujarat,2-Wheelers,2111,92992
+2021-12-01,Haryana,2-Wheelers,670,40694
+2021-12-01,Himachal Pradesh,2-Wheelers,73,6044
+2021-12-01,Jammu and Kashmir,2-Wheelers,110,4076
+2021-12-01,Jharkhand,2-Wheelers,293,26077
+2021-12-01,Karnataka,2-Wheelers,4381,83147
+2021-12-01,Kerala,2-Wheelers,1107,43996
+2021-12-01,Madhya Pradesh,2-Wheelers,901,110877
+2021-12-01,Maharashtra,2-Wheelers,4775,134502
+2021-12-01,Manipur,2-Wheelers,4,3649
+2021-12-01,Odisha,2-Wheelers,939,26693
+2021-12-01,Puducherry,2-Wheelers,81,2589
+2021-12-01,Punjab,2-Wheelers,450,35287
+2021-12-01,Rajasthan,2-Wheelers,2119,61061
+2021-12-01,Tamil Nadu,2-Wheelers,3236,83485
+2021-12-01,Uttar Pradesh,2-Wheelers,1371,268713
+2021-12-01,Uttarakhand,2-Wheelers,229,12632
+2021-12-01,West Bengal,2-Wheelers,285,73989
+2022-01-01,Andhra Pradesh,2-Wheelers,1671,59712
+2022-01-01,Assam,2-Wheelers,92,26097
+2022-01-01,Bihar,2-Wheelers,409,51380
+2022-01-01,Chandigarh,2-Wheelers,19,1291
+2022-01-01,Chhattisgarh,2-Wheelers,595,31989
+2022-01-01,DNH and DD,2-Wheelers,6,758
+2022-01-01,Delhi,2-Wheelers,1762,24615
+2022-01-01,Goa,2-Wheelers,194,3015
+2022-01-01,Gujarat,2-Wheelers,2191,58107
+2022-01-01,Haryana,2-Wheelers,597,28339
+2022-01-01,Himachal Pradesh,2-Wheelers,22,3490
+2022-01-01,Jammu and Kashmir,2-Wheelers,76,3561
+2022-01-01,Jharkhand,2-Wheelers,240,24613
+2022-01-01,Karnataka,2-Wheelers,4386,74134
+2022-01-01,Kerala,2-Wheelers,1399,45699
+2022-01-01,Ladakh,2-Wheelers,6,20
+2022-01-01,Madhya Pradesh,2-Wheelers,862,75043
+2022-01-01,Maharashtra,2-Wheelers,5138,136937
+2022-01-01,Manipur,2-Wheelers,5,3660
+2022-01-01,Odisha,2-Wheelers,1333,45749
+2022-01-01,Puducherry,2-Wheelers,94,4044
+2022-01-01,Punjab,2-Wheelers,552,28295
+2022-01-01,Rajasthan,2-Wheelers,2359,50153
+2022-01-01,Tamil Nadu,2-Wheelers,4233,124399
+2022-01-01,Tripura,2-Wheelers,5,3043
+2022-01-01,Uttar Pradesh,2-Wheelers,1322,168934
+2022-01-01,Uttarakhand,2-Wheelers,184,10413
+2022-01-01,West Bengal,2-Wheelers,370,61071
+2022-02-01,Andhra Pradesh,2-Wheelers,2284,52013
+2022-02-01,Assam,2-Wheelers,108,25414
+2022-02-01,Bihar,2-Wheelers,495,59758
+2022-02-01,Chandigarh,2-Wheelers,22,1184
+2022-02-01,Chhattisgarh,2-Wheelers,635,28508
+2022-02-01,DNH and DD,2-Wheelers,4,817
+2022-02-01,Delhi,2-Wheelers,2384,25413
+2022-02-01,Goa,2-Wheelers,267,3248
+2022-02-01,Gujarat,2-Wheelers,2613,68658
+2022-02-01,Haryana,2-Wheelers,677,25667
+2022-02-01,Himachal Pradesh,2-Wheelers,57,4041
+2022-02-01,Jammu and Kashmir,2-Wheelers,101,4836
+2022-02-01,Jharkhand,2-Wheelers,338,27174
+2022-02-01,Karnataka,2-Wheelers,5593,75612
+2022-02-01,Kerala,2-Wheelers,1737,41273
+2022-02-01,Madhya Pradesh,2-Wheelers,974,69322
+2022-02-01,Maharashtra,2-Wheelers,6871,116043
+2022-02-01,Manipur,2-Wheelers,3,4773
+2022-02-01,Odisha,2-Wheelers,1266,41856
+2022-02-01,Puducherry,2-Wheelers,117,3410
+2022-02-01,Punjab,2-Wheelers,296,24506
+2022-02-01,Rajasthan,2-Wheelers,2563,56168
+2022-02-01,Tamil Nadu,2-Wheelers,4506,108851
+2022-02-01,Tripura,2-Wheelers,3,2705
+2022-02-01,Uttar Pradesh,2-Wheelers,1202,163699
+2022-02-01,Uttarakhand,2-Wheelers,223,9283
+2022-02-01,West Bengal,2-Wheelers,383,56937
+2022-03-01,Andhra Pradesh,2-Wheelers,3169,51588
+2022-03-01,Assam,2-Wheelers,179,29698
+2022-03-01,Bihar,2-Wheelers,1328,85165
+2022-03-01,Chandigarh,2-Wheelers,55,1883
+2022-03-01,Chhattisgarh,2-Wheelers,959,31244
+2022-03-01,DNH and DD,2-Wheelers,5,757
+2022-03-01,Delhi,2-Wheelers,3491,28871
+2022-03-01,Goa,2-Wheelers,235,4381
+2022-03-01,Gujarat,2-Wheelers,4507,79333
+2022-03-01,Haryana,2-Wheelers,1025,30295
+2022-03-01,Himachal Pradesh,2-Wheelers,61,3565
+2022-03-01,Jammu and Kashmir,2-Wheelers,227,5680
+2022-03-01,Jharkhand,2-Wheelers,607,38435
+2022-03-01,Karnataka,2-Wheelers,7288,91537
+2022-03-01,Kerala,2-Wheelers,2880,50610
+2022-03-01,Madhya Pradesh,2-Wheelers,1580,76256
+2022-03-01,Maharashtra,2-Wheelers,9687,130070
+2022-03-01,Manipur,2-Wheelers,2,3508
+2022-03-01,Odisha,2-Wheelers,2363,47801
+2022-03-01,Puducherry,2-Wheelers,181,3913
+2022-03-01,Punjab,2-Wheelers,716,31497
+2022-03-01,Rajasthan,2-Wheelers,3080,60106
+2022-03-01,Tamil Nadu,2-Wheelers,7708,124272
+2022-03-01,Tripura,2-Wheelers,18,3504
+2022-03-01,Uttar Pradesh,2-Wheelers,1986,180927
+2022-03-01,Uttarakhand,2-Wheelers,435,11692
+2022-03-01,West Bengal,2-Wheelers,626,73783
+2022-04-01,Andhra Pradesh,2-Wheelers,2745,56529
+2022-04-01,Assam,2-Wheelers,168,26813
+2022-04-01,Bihar,2-Wheelers,475,82418
+2022-04-01,Chandigarh,2-Wheelers,63,1881
+2022-04-01,Chhattisgarh,2-Wheelers,1397,30843
+2022-04-01,DNH and DD,2-Wheelers,4,804
+2022-04-01,Delhi,2-Wheelers,2832,32226
+2022-04-01,Goa,2-Wheelers,377,3817
+2022-04-01,Gujarat,2-Wheelers,6695,88648
+2022-04-01,Haryana,2-Wheelers,1215,30558
+2022-04-01,Himachal Pradesh,2-Wheelers,97,4637
+2022-04-01,Jammu and Kashmir,2-Wheelers,125,8306
+2022-04-01,Jharkhand,2-Wheelers,450,35590
+2022-04-01,Karnataka,2-Wheelers,8814,100400
+2022-04-01,Kerala,2-Wheelers,2908,41859
+2022-04-01,Madhya Pradesh,2-Wheelers,1337,75144
+2022-04-01,Maharashtra,2-Wheelers,7375,135969
+2022-04-01,Meghalaya,2-Wheelers,5,1472
+2022-04-01,Nagaland,2-Wheelers,2,444
+2022-04-01,Odisha,2-Wheelers,2261,44330
+2022-04-01,Puducherry,2-Wheelers,82,3044
+2022-04-01,Punjab,2-Wheelers,817,29934
+2022-04-01,Rajasthan,2-Wheelers,3771,70039
+2022-04-01,Tamil Nadu,2-Wheelers,5425,106643
+2022-04-01,Tripura,2-Wheelers,20,2797
+2022-04-01,Uttar Pradesh,2-Wheelers,2397,225079
+2022-04-01,Uttarakhand,2-Wheelers,602,12989
+2022-04-01,West Bengal,2-Wheelers,815,68909
+2022-05-01,Andhra Pradesh,2-Wheelers,1615,48041
+2022-05-01,Assam,2-Wheelers,112,28739
+2022-05-01,Bihar,2-Wheelers,458,113034
+2022-05-01,Chandigarh,2-Wheelers,44,1797
+2022-05-01,Chhattisgarh,2-Wheelers,834,28821
+2022-05-01,DNH and DD,2-Wheelers,6,790
+2022-05-01,Delhi,2-Wheelers,1760,28897
+2022-05-01,Goa,2-Wheelers,453,3338
+2022-05-01,Gujarat,2-Wheelers,4408,68621
+2022-05-01,Haryana,2-Wheelers,1178,32009
+2022-05-01,Himachal Pradesh,2-Wheelers,73,5131
+2022-05-01,Jammu and Kashmir,2-Wheelers,124,9505
+2022-05-01,Jharkhand,2-Wheelers,431,39317
+2022-05-01,Karnataka,2-Wheelers,5947,84301
+2022-05-01,Kerala,2-Wheelers,2373,40514
+2022-05-01,Madhya Pradesh,2-Wheelers,1310,94602
+2022-05-01,Maharashtra,2-Wheelers,8914,123203
+2022-05-01,Manipur,2-Wheelers,2,2443
+2022-05-01,Odisha,2-Wheelers,1714,38324
+2022-05-01,Puducherry,2-Wheelers,65,3122
+2022-05-01,Punjab,2-Wheelers,493,30377
+2022-05-01,Rajasthan,2-Wheelers,3701,73803
+2022-05-01,Tamil Nadu,2-Wheelers,3628,102565
+2022-05-01,Tripura,2-Wheelers,14,2768
+2022-05-01,Uttar Pradesh,2-Wheelers,1695,273962
+2022-05-01,Uttarakhand,2-Wheelers,377,12930
+2022-05-01,West Bengal,2-Wheelers,683,68721
+2022-06-01,Andhra Pradesh,2-Wheelers,1733,37538
+2022-06-01,Assam,2-Wheelers,101,21695
+2022-06-01,Bihar,2-Wheelers,716,79768
+2022-06-01,Chandigarh,2-Wheelers,63,1808
+2022-06-01,Chhattisgarh,2-Wheelers,1038,28027
+2022-06-01,Delhi,2-Wheelers,2755,27696
+2022-06-01,Goa,2-Wheelers,365,3042
+2022-06-01,Gujarat,2-Wheelers,5322,83549
+2022-06-01,Haryana,2-Wheelers,966,30435
+2022-06-01,Himachal Pradesh,2-Wheelers,104,5610
+2022-06-01,Jammu and Kashmir,2-Wheelers,159,8064
+2022-06-01,Jharkhand,2-Wheelers,461,32650
+2022-06-01,Karnataka,2-Wheelers,6800,91707
+2022-06-01,Kerala,2-Wheelers,2568,44015
+2022-06-01,Ladakh,2-Wheelers,14,590
+2022-06-01,Madhya Pradesh,2-Wheelers,1434,83413
+2022-06-01,Maharashtra,2-Wheelers,7880,115725
+2022-06-01,Manipur,2-Wheelers,13,3391
+2022-06-01,Meghalaya,2-Wheelers,2,1291
+2022-06-01,Mizoram,2-Wheelers,2,1750
+2022-06-01,Odisha,2-Wheelers,1693,39143
+2022-06-01,Puducherry,2-Wheelers,85,3331
+2022-06-01,Punjab,2-Wheelers,514,28256
+2022-06-01,Rajasthan,2-Wheelers,3427,58281
+2022-06-01,Tamil Nadu,2-Wheelers,3749,110740
+2022-06-01,Tripura,2-Wheelers,21,2761
+2022-06-01,Uttar Pradesh,2-Wheelers,1361,198411
+2022-06-01,Uttarakhand,2-Wheelers,374,13121
+2022-06-01,West Bengal,2-Wheelers,660,67878
+2022-07-01,Andhra Pradesh,2-Wheelers,1921,42632
+2022-07-01,Assam,2-Wheelers,120,26803
+2022-07-01,Bihar,2-Wheelers,638,62773
+2022-07-01,Chandigarh,2-Wheelers,58,2086
+2022-07-01,Chhattisgarh,2-Wheelers,1309,26466
+2022-07-01,DNH and DD,2-Wheelers,9,735
+2022-07-01,Delhi,2-Wheelers,2658,30654
+2022-07-01,Goa,2-Wheelers,579,2801
+2022-07-01,Gujarat,2-Wheelers,5592,83341
+2022-07-01,Haryana,2-Wheelers,710,30657
+2022-07-01,Himachal Pradesh,2-Wheelers,92,5377
+2022-07-01,Jammu and Kashmir,2-Wheelers,316,8717
+2022-07-01,Jharkhand,2-Wheelers,589,32122
+2022-07-01,Karnataka,2-Wheelers,5689,77333
+2022-07-01,Kerala,2-Wheelers,1964,37691
+2022-07-01,Madhya Pradesh,2-Wheelers,1722,81579
+2022-07-01,Maharashtra,2-Wheelers,8446,111895
+2022-07-01,Manipur,2-Wheelers,21,4103
+2022-07-01,Meghalaya,2-Wheelers,3,1363
+2022-07-01,Odisha,2-Wheelers,1816,32549
+2022-07-01,Puducherry,2-Wheelers,71,3298
+2022-07-01,Punjab,2-Wheelers,603,27082
+2022-07-01,Rajasthan,2-Wheelers,4574,63752
+2022-07-01,Tamil Nadu,2-Wheelers,4180,103800
+2022-07-01,Tripura,2-Wheelers,2,2632
+2022-07-01,Uttar Pradesh,2-Wheelers,1828,153826
+2022-07-01,Uttarakhand,2-Wheelers,404,12603
+2022-07-01,West Bengal,2-Wheelers,689,62610
+2022-08-01,Andhra Pradesh,2-Wheelers,1898,54365
+2022-08-01,Assam,2-Wheelers,202,27466
+2022-08-01,Bihar,2-Wheelers,849,64565
+2022-08-01,Chandigarh,2-Wheelers,59,1896
+2022-08-01,Chhattisgarh,2-Wheelers,1360,23146
+2022-08-01,DNH and DD,2-Wheelers,6,742
+2022-08-01,Delhi,2-Wheelers,3259,31869
+2022-08-01,Goa,2-Wheelers,303,4503
+2022-08-01,Gujarat,2-Wheelers,5059,74982
+2022-08-01,Haryana,2-Wheelers,915,33336
+2022-08-01,Himachal Pradesh,2-Wheelers,59,5281
+2022-08-01,Jammu and Kashmir,2-Wheelers,182,9131
+2022-08-01,Jharkhand,2-Wheelers,561,25332
+2022-08-01,Karnataka,2-Wheelers,7476,88611
+2022-08-01,Kerala,2-Wheelers,3069,50954
+2022-08-01,Madhya Pradesh,2-Wheelers,1931,98165
+2022-08-01,Maharashtra,2-Wheelers,9723,118886
+2022-08-01,Manipur,2-Wheelers,8,3647
+2022-08-01,Meghalaya,2-Wheelers,2,1734
+2022-08-01,Mizoram,2-Wheelers,6,2062
+2022-08-01,Odisha,2-Wheelers,2007,30540
+2022-08-01,Puducherry,2-Wheelers,91,3810
+2022-08-01,Punjab,2-Wheelers,645,32591
+2022-08-01,Rajasthan,2-Wheelers,4159,60191
+2022-08-01,Tamil Nadu,2-Wheelers,5306,120312
+2022-08-01,Tripura,2-Wheelers,14,2643
+2022-08-01,Uttar Pradesh,2-Wheelers,1920,131703
+2022-08-01,Uttarakhand,2-Wheelers,494,12711
+2022-08-01,West Bengal,2-Wheelers,663,62200
+2022-09-01,Andhra Pradesh,2-Wheelers,2239,52804
+2022-09-01,Assam,2-Wheelers,200,31729
+2022-09-01,Bihar,2-Wheelers,951,54364
+2022-09-01,Chandigarh,2-Wheelers,70,1929
+2022-09-01,Chhattisgarh,2-Wheelers,1190,23465
+2022-09-01,DNH and DD,2-Wheelers,8,629
+2022-09-01,Delhi,2-Wheelers,2301,25409
+2022-09-01,Goa,2-Wheelers,400,4078
+2022-09-01,Gujarat,2-Wheelers,5333,77920
+2022-09-01,Haryana,2-Wheelers,848,25832
+2022-09-01,Himachal Pradesh,2-Wheelers,67,4101
+2022-09-01,Jammu and Kashmir,2-Wheelers,220,8320
+2022-09-01,Jharkhand,2-Wheelers,498,23758
+2022-09-01,Karnataka,2-Wheelers,7616,87981
+2022-09-01,Kerala,2-Wheelers,3100,53877
+2022-09-01,Madhya Pradesh,2-Wheelers,1898,53245
+2022-09-01,Maharashtra,2-Wheelers,10730,122642
+2022-09-01,Mizoram,2-Wheelers,4,1568
+2022-09-01,Odisha,2-Wheelers,2197,36139
+2022-09-01,Puducherry,2-Wheelers,114,3772
+2022-09-01,Punjab,2-Wheelers,590,27407
+2022-09-01,Rajasthan,2-Wheelers,4677,53951
+2022-09-01,Tamil Nadu,2-Wheelers,5112,121791
+2022-09-01,Tripura,2-Wheelers,17,3842
+2022-09-01,Uttar Pradesh,2-Wheelers,1787,97293
+2022-09-01,Uttarakhand,2-Wheelers,386,9325
+2022-09-01,West Bengal,2-Wheelers,727,64255
+2022-10-01,Andhra Pradesh,2-Wheelers,2568,74374
+2022-10-01,Assam,2-Wheelers,194,38033
+2022-10-01,Bihar,2-Wheelers,1377,88895
+2022-10-01,Chandigarh,2-Wheelers,118,3103
+2022-10-01,Chhattisgarh,2-Wheelers,2471,57951
+2022-10-01,DNH and DD,2-Wheelers,5,619
+2022-10-01,Delhi,2-Wheelers,3699,50702
+2022-10-01,Goa,2-Wheelers,704,6241
+2022-10-01,Gujarat,2-Wheelers,6635,115540
+2022-10-01,Haryana,2-Wheelers,1313,38921
+2022-10-01,Himachal Pradesh,2-Wheelers,79,5548
+2022-10-01,Jammu and Kashmir,2-Wheelers,258,9184
+2022-10-01,Jharkhand,2-Wheelers,949,50073
+2022-10-01,Karnataka,2-Wheelers,9706,117015
+2022-10-01,Kerala,2-Wheelers,3629,44021
+2022-10-01,Madhya Pradesh,2-Wheelers,3616,137210
+2022-10-01,Maharashtra,2-Wheelers,15999,189870
+2022-10-01,Manipur,2-Wheelers,4,2532
+2022-10-01,Meghalaya,2-Wheelers,5,1558
+2022-10-01,Mizoram,2-Wheelers,3,1638
+2022-10-01,Odisha,2-Wheelers,3695,72161
+2022-10-01,Puducherry,2-Wheelers,180,3564
+2022-10-01,Punjab,2-Wheelers,707,37265
+2022-10-01,Rajasthan,2-Wheelers,9455,133585
+2022-10-01,Tamil Nadu,2-Wheelers,5530,111507
+2022-10-01,Tripura,2-Wheelers,13,3431
+2022-10-01,Uttar Pradesh,2-Wheelers,3003,258110
+2022-10-01,Uttarakhand,2-Wheelers,797,19532
+2022-10-01,West Bengal,2-Wheelers,538,50676
+2022-11-01,Andaman & Nicobar Island,2-Wheelers,6,405
+2022-11-01,Andhra Pradesh,2-Wheelers,2742,69695
+2022-11-01,Assam,2-Wheelers,176,32542
+2022-11-01,Bihar,2-Wheelers,1253,110759
+2022-11-01,Chandigarh,2-Wheelers,163,1727
+2022-11-01,Chhattisgarh,2-Wheelers,2725,42575
+2022-11-01,DNH and DD,2-Wheelers,14,1290
+2022-11-01,Delhi,2-Wheelers,3869,41689
+2022-11-01,Goa,2-Wheelers,587,5285
+2022-11-01,Gujarat,2-Wheelers,8322,165828
+2022-11-01,Haryana,2-Wheelers,1369,58469
+2022-11-01,Himachal Pradesh,2-Wheelers,134,9181
+2022-11-01,Jammu and Kashmir,2-Wheelers,194,4656
+2022-11-01,Jharkhand,2-Wheelers,953,40248
+2022-11-01,Karnataka,2-Wheelers,9851,109695
+2022-11-01,Kerala,2-Wheelers,3698,40561
+2022-11-01,Madhya Pradesh,2-Wheelers,3426,130285
+2022-11-01,Maharashtra,2-Wheelers,13718,204988
+2022-11-01,Manipur,2-Wheelers,2,5529
+2022-11-01,Meghalaya,2-Wheelers,3,1438
+2022-11-01,Mizoram,2-Wheelers,8,1542
+2022-11-01,Odisha,2-Wheelers,2997,38593
+2022-11-01,Puducherry,2-Wheelers,153,3002
+2022-11-01,Punjab,2-Wheelers,1042,46873
+2022-11-01,Rajasthan,2-Wheelers,7306,158463
+2022-11-01,Tamil Nadu,2-Wheelers,7258,120109
+2022-11-01,Tripura,2-Wheelers,12,3427
+2022-11-01,Uttar Pradesh,2-Wheelers,2746,279169
+2022-11-01,Uttarakhand,2-Wheelers,839,25037
+2022-11-01,West Bengal,2-Wheelers,1209,100516
+2022-12-01,Andaman & Nicobar Island,2-Wheelers,10,397
+2022-12-01,Andhra Pradesh,2-Wheelers,2718,47327
+2022-12-01,Assam,2-Wheelers,250,34737
+2022-12-01,Bihar,2-Wheelers,987,60432
+2022-12-01,Chandigarh,2-Wheelers,123,1454
+2022-12-01,Chhattisgarh,2-Wheelers,1883,26359
+2022-12-01,DNH and DD,2-Wheelers,19,1112
+2022-12-01,Delhi,2-Wheelers,3826,21773
+2022-12-01,Goa,2-Wheelers,528,4983
+2022-12-01,Gujarat,2-Wheelers,7906,107138
+2022-12-01,Haryana,2-Wheelers,885,37571
+2022-12-01,Himachal Pradesh,2-Wheelers,100,6751
+2022-12-01,Jammu and Kashmir,2-Wheelers,150,3943
+2022-12-01,Jharkhand,2-Wheelers,653,27130
+2022-12-01,Karnataka,2-Wheelers,7750,75110
+2022-12-01,Kerala,2-Wheelers,4112,40445
+2022-12-01,Madhya Pradesh,2-Wheelers,2328,64980
+2022-12-01,Maharashtra,2-Wheelers,13076,136534
+2022-12-01,Manipur,2-Wheelers,63,4150
+2022-12-01,Mizoram,2-Wheelers,11,1792
+2022-12-01,Odisha,2-Wheelers,2379,38217
+2022-12-01,Puducherry,2-Wheelers,177,2396
+2022-12-01,Punjab,2-Wheelers,635,35992
+2022-12-01,Rajasthan,2-Wheelers,5060,57108
+2022-12-01,Tamil Nadu,2-Wheelers,4991,77848
+2022-12-01,Tripura,2-Wheelers,57,3393
+2022-12-01,Uttar Pradesh,2-Wheelers,2334,134747
+2022-12-01,Uttarakhand,2-Wheelers,581,10627
+2022-12-01,West Bengal,2-Wheelers,1047,69018
+2023-01-01,Andhra Pradesh,2-Wheelers,2680,49537
+2023-01-01,Assam,2-Wheelers,142,41897
+2023-01-01,Bihar,2-Wheelers,987,63994
+2023-01-01,Chandigarh,2-Wheelers,172,1977
+2023-01-01,Chhattisgarh,2-Wheelers,1923,35000
+2023-01-01,DNH and DD,2-Wheelers,9,698
+2023-01-01,Delhi,2-Wheelers,3285,35973
+2023-01-01,Goa,2-Wheelers,662,4457
+2023-01-01,Gujarat,2-Wheelers,5873,70897
+2023-01-01,Haryana,2-Wheelers,706,29990
+2023-01-01,Himachal Pradesh,2-Wheelers,78,4421
+2023-01-01,Jammu and Kashmir,2-Wheelers,115,3934
+2023-01-01,Jharkhand,2-Wheelers,655,27267
+2023-01-01,Karnataka,2-Wheelers,9969,94898
+2023-01-01,Kerala,2-Wheelers,4667,43110
+2023-01-01,Madhya Pradesh,2-Wheelers,2443,80312
+2023-01-01,Maharashtra,2-Wheelers,13802,148279
+2023-01-01,Manipur,2-Wheelers,7,3158
+2023-01-01,Meghalaya,2-Wheelers,4,1372
+2023-01-01,Mizoram,2-Wheelers,10,1599
+2023-01-01,Odisha,2-Wheelers,2533,47973
+2023-01-01,Puducherry,2-Wheelers,197,4395
+2023-01-01,Punjab,2-Wheelers,590,33117
+2023-01-01,Rajasthan,2-Wheelers,4624,62966
+2023-01-01,Tamil Nadu,2-Wheelers,5505,135769
+2023-01-01,Tripura,2-Wheelers,8,2766
+2023-01-01,Uttar Pradesh,2-Wheelers,1952,171721
+2023-01-01,Uttarakhand,2-Wheelers,447,12862
+2023-01-01,West Bengal,2-Wheelers,632,52431
+2023-02-01,Andhra Pradesh,2-Wheelers,2907,51810
+2023-02-01,Assam,2-Wheelers,190,36795
+2023-02-01,Bihar,2-Wheelers,911,77926
+2023-02-01,Chandigarh,2-Wheelers,216,955
+2023-02-01,Chhattisgarh,2-Wheelers,1874,30804
+2023-02-01,DNH and DD,2-Wheelers,16,777
+2023-02-01,Delhi,2-Wheelers,2800,29396
+2023-02-01,Goa,2-Wheelers,628,3919
+2023-02-01,Gujarat,2-Wheelers,6757,85424
+2023-02-01,Haryana,2-Wheelers,702,31279
+2023-02-01,Himachal Pradesh,2-Wheelers,65,4784
+2023-02-01,Jammu and Kashmir,2-Wheelers,147,4868
+2023-02-01,Jharkhand,2-Wheelers,652,31633
+2023-02-01,Karnataka,2-Wheelers,10266,88323
+2023-02-01,Kerala,2-Wheelers,5558,39985
+2023-02-01,Madhya Pradesh,2-Wheelers,2358,75150
+2023-02-01,Maharashtra,2-Wheelers,12070,129508
+2023-02-01,Manipur,2-Wheelers,14,2990
+2023-02-01,Meghalaya,2-Wheelers,2,1192
+2023-02-01,Mizoram,2-Wheelers,9,1655
+2023-02-01,Odisha,2-Wheelers,2552,49375
+2023-02-01,Puducherry,2-Wheelers,177,3354
+2023-02-01,Punjab,2-Wheelers,609,34555
+2023-02-01,Rajasthan,2-Wheelers,4662,62207
+2023-02-01,Tamil Nadu,2-Wheelers,6701,118355
+2023-02-01,Tripura,2-Wheelers,20,2860
+2023-02-01,Uttar Pradesh,2-Wheelers,1968,190812
+2023-02-01,Uttarakhand,2-Wheelers,426,11079
+2023-02-01,West Bengal,2-Wheelers,814,67188
+2023-03-01,Andhra Pradesh,2-Wheelers,3515,54298
+2023-03-01,Assam,2-Wheelers,221,41575
+2023-03-01,Bihar,2-Wheelers,1302,92334
+2023-03-01,Chandigarh,2-Wheelers,362,663
+2023-03-01,Chhattisgarh,2-Wheelers,2188,33362
+2023-03-01,DNH and DD,2-Wheelers,5,902
+2023-03-01,Delhi,2-Wheelers,3782,30396
+2023-03-01,Goa,2-Wheelers,837,5064
+2023-03-01,Gujarat,2-Wheelers,7790,92417
+2023-03-01,Haryana,2-Wheelers,714,33171
+2023-03-01,Himachal Pradesh,2-Wheelers,91,4543
+2023-03-01,Jammu and Kashmir,2-Wheelers,198,7789
+2023-03-01,Jharkhand,2-Wheelers,797,39001
+2023-03-01,Karnataka,2-Wheelers,13056,104953
+2023-03-01,Kerala,2-Wheelers,6773,50705
+2023-03-01,Madhya Pradesh,2-Wheelers,3213,100653
+2023-03-01,Maharashtra,2-Wheelers,17077,154632
+2023-03-01,Manipur,2-Wheelers,3,3985
+2023-03-01,Mizoram,2-Wheelers,10,1615
+2023-03-01,Odisha,2-Wheelers,3269,52642
+2023-03-01,Puducherry,2-Wheelers,261,3608
+2023-03-01,Punjab,2-Wheelers,805,36806
+2023-03-01,Rajasthan,2-Wheelers,6375,85324
+2023-03-01,Tamil Nadu,2-Wheelers,8388,119376
+2023-03-01,Tripura,2-Wheelers,23,3016
+2023-03-01,Uttar Pradesh,2-Wheelers,3559,206315
+2023-03-01,Uttarakhand,2-Wheelers,587,13077
+2023-03-01,West Bengal,2-Wheelers,1103,73690
+2023-04-01,Andhra Pradesh,2-Wheelers,3515,48046
+2023-04-01,Assam,2-Wheelers,178,35047
+2023-04-01,Bihar,2-Wheelers,971,84319
+2023-04-01,Chandigarh,2-Wheelers,126,2085
+2023-04-01,Chhattisgarh,2-Wheelers,1559,27613
+2023-04-01,DNH and DD,2-Wheelers,5,666
+2023-04-01,Delhi,2-Wheelers,2738,28590
+2023-04-01,Goa,2-Wheelers,698,3609
+2023-04-01,Gujarat,2-Wheelers,8266,89782
+2023-04-01,Haryana,2-Wheelers,802,34168
+2023-04-01,Himachal Pradesh,2-Wheelers,96,4847
+2023-04-01,Jammu and Kashmir,2-Wheelers,212,6299
+2023-04-01,Jharkhand,2-Wheelers,682,36353
+2023-04-01,Karnataka,2-Wheelers,9711,91491
+2023-04-01,Kerala,2-Wheelers,4659,32903
+2023-04-01,Madhya Pradesh,2-Wheelers,1958,64877
+2023-04-01,Maharashtra,2-Wheelers,12260,130977
+2023-04-01,Manipur,2-Wheelers,15,3425
+2023-04-01,Meghalaya,2-Wheelers,3,1501
+2023-04-01,Mizoram,2-Wheelers,8,1565
+2023-04-01,Odisha,2-Wheelers,2848,43956
+2023-04-01,Puducherry,2-Wheelers,157,3076
+2023-04-01,Punjab,2-Wheelers,376,28269
+2023-04-01,Rajasthan,2-Wheelers,3914,67999
+2023-04-01,Tamil Nadu,2-Wheelers,6509,94801
+2023-04-01,Tripura,2-Wheelers,19,2450
+2023-04-01,Uttar Pradesh,2-Wheelers,3087,195568
+2023-04-01,Uttarakhand,2-Wheelers,524,12580
+2023-04-01,West Bengal,2-Wheelers,918,54194
+2023-05-01,Andhra Pradesh,2-Wheelers,4370,54545
+2023-05-01,Assam,2-Wheelers,282,35939
+2023-05-01,Bihar,2-Wheelers,1536,125465
+2023-05-01,Chandigarh,2-Wheelers,209,2356
+2023-05-01,Chhattisgarh,2-Wheelers,2514,29232
+2023-05-01,DNH and DD,2-Wheelers,4,829
+2023-05-01,Delhi,2-Wheelers,4977,32282
+2023-05-01,Goa,2-Wheelers,863,3933
+2023-05-01,Gujarat,2-Wheelers,9609,87169
+2023-05-01,Haryana,2-Wheelers,1053,34399
+2023-05-01,Himachal Pradesh,2-Wheelers,118,5278
+2023-05-01,Jammu and Kashmir,2-Wheelers,258,9084
+2023-05-01,Jharkhand,2-Wheelers,839,41796
+2023-05-01,Karnataka,2-Wheelers,17292,97074
+2023-05-01,Kerala,2-Wheelers,7386,41347
+2023-05-01,Ladakh,2-Wheelers,14,161
+2023-05-01,Madhya Pradesh,2-Wheelers,3940,97067
+2023-05-01,Maharashtra,2-Wheelers,20585,126680
+2023-05-01,Manipur,2-Wheelers,10,572
+2023-05-01,Meghalaya,2-Wheelers,7,2006
+2023-05-01,Mizoram,2-Wheelers,14,1626
+2023-05-01,Odisha,2-Wheelers,3727,44563
+2023-05-01,Puducherry,2-Wheelers,382,3736
+2023-05-01,Punjab,2-Wheelers,1181,32433
+2023-05-01,Rajasthan,2-Wheelers,6897,79573
+2023-05-01,Tamil Nadu,2-Wheelers,10330,109325
+2023-05-01,Tripura,2-Wheelers,65,3305
+2023-05-01,Uttar Pradesh,2-Wheelers,4704,300079
+2023-05-01,Uttarakhand,2-Wheelers,682,14779
+2023-05-01,West Bengal,2-Wheelers,1508,77494
+2023-06-01,Andhra Pradesh,2-Wheelers,1004,45618
+2023-06-01,Assam,2-Wheelers,177,31855
+2023-06-01,Bihar,2-Wheelers,520,90944
+2023-06-01,Chandigarh,2-Wheelers,135,2638
+2023-06-01,Chhattisgarh,2-Wheelers,1245,30378
+2023-06-01,DNH and DD,2-Wheelers,5,765
+2023-06-01,Delhi,2-Wheelers,1787,28279
+2023-06-01,Goa,2-Wheelers,531,3485
+2023-06-01,Gujarat,2-Wheelers,4019,80898
+2023-06-01,Haryana,2-Wheelers,408,33317
+2023-06-01,Himachal Pradesh,2-Wheelers,59,5397
+2023-06-01,Jammu and Kashmir,2-Wheelers,166,7915
+2023-06-01,Jharkhand,2-Wheelers,390,36415
+2023-06-01,Karnataka,2-Wheelers,7730,101825
+2023-06-01,Kerala,2-Wheelers,4020,38025
+2023-06-01,Ladakh,2-Wheelers,2,208
+2023-06-01,Madhya Pradesh,2-Wheelers,1671,78536
+2023-06-01,Maharashtra,2-Wheelers,8451,119809
+2023-06-01,Manipur,2-Wheelers,4,270
+2023-06-01,Mizoram,2-Wheelers,4,1795
+2023-06-01,Odisha,2-Wheelers,2131,43202
+2023-06-01,Puducherry,2-Wheelers,140,3591
+2023-06-01,Punjab,2-Wheelers,534,30214
+2023-06-01,Rajasthan,2-Wheelers,3261,69235
+2023-06-01,Tamil Nadu,2-Wheelers,4720,121451
+2023-06-01,Tripura,2-Wheelers,8,2709
+2023-06-01,Uttar Pradesh,2-Wheelers,1932,219233
+2023-06-01,Uttarakhand,2-Wheelers,324,13374
+2023-06-01,West Bengal,2-Wheelers,462,64854
+2023-07-01,Andhra Pradesh,2-Wheelers,1361,50877
+2023-07-01,Assam,2-Wheelers,168,32074
+2023-07-01,Bihar,2-Wheelers,614,69583
+2023-07-01,Chandigarh,2-Wheelers,134,1813
+2023-07-01,Chhattisgarh,2-Wheelers,1584,28753
+2023-07-01,DNH and DD,2-Wheelers,5,856
+2023-07-01,Delhi,2-Wheelers,2068,31269
+2023-07-01,Goa,2-Wheelers,517,2877
+2023-07-01,Gujarat,2-Wheelers,5300,98394
+2023-07-01,Haryana,2-Wheelers,152,15523
+2023-07-01,Himachal Pradesh,2-Wheelers,40,5450
+2023-07-01,Jammu and Kashmir,2-Wheelers,116,8604
+2023-07-01,Jharkhand,2-Wheelers,447,32370
+2023-07-01,Karnataka,2-Wheelers,9632,95036
+2023-07-01,Kerala,2-Wheelers,3937,34948
+2023-07-01,Madhya Pradesh,2-Wheelers,1971,69937
+2023-07-01,Maharashtra,2-Wheelers,9822,126943
+2023-07-01,Manipur,2-Wheelers,6,1145
+2023-07-01,Meghalaya,2-Wheelers,20,2030
+2023-07-01,Mizoram,2-Wheelers,6,1721
+2023-07-01,Odisha,2-Wheelers,2805,38394
+2023-07-01,Puducherry,2-Wheelers,189,3909
+2023-07-01,Punjab,2-Wheelers,445,33588
+2023-07-01,Rajasthan,2-Wheelers,3763,76511
+2023-07-01,Tamil Nadu,2-Wheelers,5839,119322
+2023-07-01,Tripura,2-Wheelers,6,2942
+2023-07-01,Uttar Pradesh,2-Wheelers,2326,158970
+2023-07-01,Uttarakhand,2-Wheelers,408,13216
+2023-07-01,West Bengal,2-Wheelers,509,67367
+2023-08-01,Andhra Pradesh,2-Wheelers,1568,56399
+2023-08-01,Assam,2-Wheelers,147,31641
+2023-08-01,Bihar,2-Wheelers,713,58346
+2023-08-01,Chandigarh,2-Wheelers,125,1789
+2023-08-01,Chhattisgarh,2-Wheelers,2088,28699
+2023-08-01,DNH and DD,2-Wheelers,6,606
+2023-08-01,Delhi,2-Wheelers,2116,33120
+2023-08-01,Goa,2-Wheelers,689,4098
+2023-08-01,Gujarat,2-Wheelers,5755,87134
+2023-08-01,Haryana,2-Wheelers,399,38102
+2023-08-01,Himachal Pradesh,2-Wheelers,64,5345
+2023-08-01,Jammu and Kashmir,2-Wheelers,98,8650
+2023-08-01,Jharkhand,2-Wheelers,455,27909
+2023-08-01,Karnataka,2-Wheelers,9720,101545
+2023-08-01,Kerala,2-Wheelers,4798,49548
+2023-08-01,Madhya Pradesh,2-Wheelers,3907,73963
+2023-08-01,Maharashtra,2-Wheelers,12043,133378
+2023-08-01,Manipur,2-Wheelers,8,846
+2023-08-01,Meghalaya,2-Wheelers,15,2060
+2023-08-01,Mizoram,2-Wheelers,4,1908
+2023-08-01,Odisha,2-Wheelers,2737,36033
+2023-08-01,Puducherry,2-Wheelers,197,4141
+2023-08-01,Punjab,2-Wheelers,642,34784
+2023-08-01,Rajasthan,2-Wheelers,4313,76171
+2023-08-01,Tamil Nadu,2-Wheelers,6246,128997
+2023-08-01,Tripura,2-Wheelers,33,3154
+2023-08-01,Uttar Pradesh,2-Wheelers,2710,146984
+2023-08-01,Uttarakhand,2-Wheelers,364,12790
+2023-08-01,West Bengal,2-Wheelers,511,64154
+2023-09-01,Andhra Pradesh,2-Wheelers,1388,53014
+2023-09-01,Assam,2-Wheelers,257,32936
+2023-09-01,Bihar,2-Wheelers,900,65102
+2023-09-01,Chandigarh,2-Wheelers,134,1868
+2023-09-01,Chhattisgarh,2-Wheelers,2178,30725
+2023-09-01,DNH and DD,2-Wheelers,12,732
+2023-09-01,Delhi,2-Wheelers,2002,31468
+2023-09-01,Goa,2-Wheelers,560,5539
+2023-09-01,Gujarat,2-Wheelers,7209,129851
+2023-09-01,Haryana,2-Wheelers,321,44459
+2023-09-01,Himachal Pradesh,2-Wheelers,68,5403
+2023-09-01,Jammu and Kashmir,2-Wheelers,113,8372
+2023-09-01,Jharkhand,2-Wheelers,524,31209
+2023-09-01,Karnataka,2-Wheelers,10590,106981
+2023-09-01,Kerala,2-Wheelers,4461,48967
+2023-09-01,Madhya Pradesh,2-Wheelers,3283,74064
+2023-09-01,Maharashtra,2-Wheelers,12444,134556
+2023-09-01,Meghalaya,2-Wheelers,11,1991
+2023-09-01,Mizoram,2-Wheelers,6,1561
+2023-09-01,Odisha,2-Wheelers,3049,45630
+2023-09-01,Puducherry,2-Wheelers,136,3350
+2023-09-01,Punjab,2-Wheelers,676,35832
+2023-09-01,Rajasthan,2-Wheelers,4336,81056
+2023-09-01,Tamil Nadu,2-Wheelers,5178,116071
+2023-09-01,Tripura,2-Wheelers,17,3157
+2023-09-01,Uttar Pradesh,2-Wheelers,3141,143067
+2023-09-01,Uttarakhand,2-Wheelers,262,12642
+2023-09-01,West Bengal,2-Wheelers,489,58361
+2023-10-01,Andhra Pradesh,2-Wheelers,1757,66154
+2023-10-01,Assam,2-Wheelers,245,51372
+2023-10-01,Bihar,2-Wheelers,820,65088
+2023-10-01,Chandigarh,2-Wheelers,157,1964
+2023-10-01,Chhattisgarh,2-Wheelers,2195,38600
+2023-10-01,DNH and DD,2-Wheelers,4,1109
+2023-10-01,Delhi,2-Wheelers,2611,35861
+2023-10-01,Goa,2-Wheelers,567,5377
+2023-10-01,Gujarat,2-Wheelers,8417,149414
+2023-10-01,Haryana,2-Wheelers,591,37096
+2023-10-01,Himachal Pradesh,2-Wheelers,53,4480
+2023-10-01,Jammu and Kashmir,2-Wheelers,137,6736
+2023-10-01,Jharkhand,2-Wheelers,502,33632
+2023-10-01,Karnataka,2-Wheelers,11137,108712
+2023-10-01,Kerala,2-Wheelers,5051,36841
+2023-10-01,Madhya Pradesh,2-Wheelers,3262,99036
+2023-10-01,Maharashtra,2-Wheelers,15716,167065
+2023-10-01,Manipur,2-Wheelers,6,1035
+2023-10-01,Mizoram,2-Wheelers,36,1958
+2023-10-01,Odisha,2-Wheelers,3972,71596
+2023-10-01,Puducherry,2-Wheelers,197,3765
+2023-10-01,Punjab,2-Wheelers,760,34028
+2023-10-01,Rajasthan,2-Wheelers,4906,103647
+2023-10-01,Tamil Nadu,2-Wheelers,6507,131658
+2023-10-01,Tripura,2-Wheelers,6,4285
+2023-10-01,Uttar Pradesh,2-Wheelers,3775,162993
+2023-10-01,Uttarakhand,2-Wheelers,383,13890
+2023-10-01,West Bengal,2-Wheelers,851,65489
+2023-11-01,Andaman & Nicobar Island,2-Wheelers,3,598
+2023-11-01,Andhra Pradesh,2-Wheelers,1997,79246
+2023-11-01,Assam,2-Wheelers,244,41326
+2023-11-01,Bihar,2-Wheelers,1765,149828
+2023-11-01,Chandigarh,2-Wheelers,241,2430
+2023-11-01,Chhattisgarh,2-Wheelers,3880,76276
+2023-11-01,DNH and DD,2-Wheelers,15,1185
+2023-11-01,Delhi,2-Wheelers,3976,56736
+2023-11-01,Goa,2-Wheelers,977,6217
+2023-11-01,Gujarat,2-Wheelers,5424,152556
+2023-11-01,Haryana,2-Wheelers,565,42364
+2023-11-01,Himachal Pradesh,2-Wheelers,53,6131
+2023-11-01,Jammu and Kashmir,2-Wheelers,172,8743
+2023-11-01,Jharkhand,2-Wheelers,825,63696
+2023-11-01,Karnataka,2-Wheelers,14300,136535
+2023-11-01,Kerala,2-Wheelers,5352,36822
+2023-11-01,Madhya Pradesh,2-Wheelers,4861,204532
+2023-11-01,Maharashtra,2-Wheelers,19008,230768
+2023-11-01,Manipur,2-Wheelers,10,812
+2023-11-01,Meghalaya,2-Wheelers,6,1893
+2023-11-01,Mizoram,2-Wheelers,35,1977
+2023-11-01,Odisha,2-Wheelers,4345,63423
+2023-11-01,Puducherry,2-Wheelers,194,3681
+2023-11-01,Punjab,2-Wheelers,1184,48694
+2023-11-01,Rajasthan,2-Wheelers,7743,191722
+2023-11-01,Tamil Nadu,2-Wheelers,7096,121926
+2023-11-01,Tripura,2-Wheelers,11,4893
+2023-11-01,Uttar Pradesh,2-Wheelers,5327,387983
+2023-11-01,Uttarakhand,2-Wheelers,626,24522
+2023-11-01,West Bengal,2-Wheelers,1007,97240
+2023-12-01,Andaman & Nicobar Island,2-Wheelers,7,430
+2023-12-01,Andhra Pradesh,2-Wheelers,2372,60868
+2023-12-01,Arunachal Pradesh,2-Wheelers,2,1377
+2023-12-01,Assam,2-Wheelers,204,38490
+2023-12-01,Bihar,2-Wheelers,1354,91064
+2023-12-01,Chandigarh,2-Wheelers,137,1162
+2023-12-01,Chhattisgarh,2-Wheelers,1865,31773
+2023-12-01,DNH and DD,2-Wheelers,13,1447
+2023-12-01,Delhi,2-Wheelers,5380,27097
+2023-12-01,Goa,2-Wheelers,799,4299
+2023-12-01,Gujarat,2-Wheelers,4080,85848
+2023-12-01,Haryana,2-Wheelers,1019,60574
+2023-12-01,Himachal Pradesh,2-Wheelers,102,9988
+2023-12-01,Jammu and Kashmir,2-Wheelers,96,3661
+2023-12-01,Jharkhand,2-Wheelers,632,32673
+2023-12-01,Karnataka,2-Wheelers,10237,91996
+2023-12-01,Kerala,2-Wheelers,4866,35712
+2023-12-01,Madhya Pradesh,2-Wheelers,3359,88017
+2023-12-01,Maharashtra,2-Wheelers,14495,174125
+2023-12-01,Manipur,2-Wheelers,6,976
+2023-12-01,Mizoram,2-Wheelers,24,1974
+2023-12-01,Odisha,2-Wheelers,4383,48402
+2023-12-01,Puducherry,2-Wheelers,224,2836
+2023-12-01,Punjab,2-Wheelers,951,45523
+2023-12-01,Rajasthan,2-Wheelers,4676,99479
+2023-12-01,Tamil Nadu,2-Wheelers,5403,82736
+2023-12-01,Tripura,2-Wheelers,40,3663
+2023-12-01,Uttar Pradesh,2-Wheelers,5487,211546
+2023-12-01,Uttarakhand,2-Wheelers,655,19337
+2023-12-01,West Bengal,2-Wheelers,2625,90092
+2024-01-01,Uttar Pradesh,2-Wheelers,5668,181667
+2024-01-01,Maharashtra,2-Wheelers,16367,172830
+2024-01-01,Karnataka,2-Wheelers,12415,115920
+2024-01-01,Tamil Nadu,2-Wheelers,7580,153753
+2024-01-01,Bihar,2-Wheelers,1288,71556
+2024-01-01,Kerala,2-Wheelers,6457,42509
+2024-01-01,Rajasthan,2-Wheelers,4432,78862
+2024-01-01,Delhi,2-Wheelers,3073,38413
+2024-01-01,Madhya Pradesh,2-Wheelers,3684,92100
+2024-01-01,Gujarat,2-Wheelers,5424,91933
+2024-01-01,Odisha,2-Wheelers,3883,53485
+2024-01-01,Assam,2-Wheelers,253,44386
+2024-01-01,Haryana,2-Wheelers,1259,42824
+2024-01-01,Chhattisgarh,2-Wheelers,2367,42881
+2024-01-01,West Bengal,2-Wheelers,1636,72390
+2024-01-01,Punjab,2-Wheelers,821,33511
+2024-01-01,Andhra Pradesh,2-Wheelers,2134,53619
+2024-01-01,Jharkhand,2-Wheelers,551,30612
+2024-01-01,Uttarakhand,2-Wheelers,382,11682
+2024-01-01,Jammu and Kashmir,2-Wheelers,219,4582
+2024-01-01,Goa,2-Wheelers,832,5079
+2024-01-01,Chandigarh,2-Wheelers,118,1450
+2024-01-01,Tripura,2-Wheelers,3,3000
+2024-01-01,Puducherry,2-Wheelers,310,5141
+2024-01-01,Himachal Pradesh,2-Wheelers,79,6031
+2024-01-01,DNH and DD,2-Wheelers,31,866
+2024-01-01,Manipur,2-Wheelers,7,1556
+2024-01-01,Mizoram,2-Wheelers,28,1872
+2024-01-01,Meghalaya,2-Wheelers,26,1625
+2024-01-01,Ladakh,2-Wheelers,14,37
+2024-01-01,Andaman & Nicobar,2-Wheelers,2,483
+2024-02-01,Uttar Pradesh,2-Wheelers,6557,206846
+2024-02-01,Maharashtra,2-Wheelers,15193,147649
+2024-02-01,Karnataka,2-Wheelers,12605,108852
+2024-02-01,Tamil Nadu,2-Wheelers,8647,143638
+2024-02-01,Rajasthan,2-Wheelers,5145,81152
+2024-02-01,Bihar,2-Wheelers,1301,83398
+2024-02-01,Madhya Pradesh,2-Wheelers,4006,87659
+2024-02-01,Kerala,2-Wheelers,5389,38356
+2024-02-01,Gujarat,2-Wheelers,5103,88441
+2024-02-01,Delhi,2-Wheelers,2364,30504
+2024-02-01,Assam,2-Wheelers,246,39048
+2024-02-01,Odisha,2-Wheelers,3733,57255
+2024-02-01,Chhattisgarh,2-Wheelers,2198,40110
+2024-02-01,Punjab,2-Wheelers,1017,34359
+2024-02-01,Andhra Pradesh,2-Wheelers,2830,56600
+2024-02-01,Haryana,2-Wheelers,1075,38121
+2024-02-01,West Bengal,2-Wheelers,1341,74089
+2024-02-01,Jharkhand,2-Wheelers,710,34467
+2024-02-01,Uttarakhand,2-Wheelers,586,13692
+2024-02-01,Jammu and Kashmir,2-Wheelers,233,5055
+2024-02-01,Goa,2-Wheelers,990,4759
+2024-02-01,Tripura,2-Wheelers,24,3334
+2024-02-01,Chandigarh,2-Wheelers,126,1416
+2024-02-01,Puducherry,2-Wheelers,384,4556
+2024-02-01,Himachal Pradesh,2-Wheelers,66,4926
+2024-02-01,Mizoram,2-Wheelers,51,2146
+2024-02-01,Manipur,2-Wheelers,3,1723
+2024-02-01,DNH and DD,2-Wheelers,24,1052
+2024-02-01,Meghalaya,2-Wheelers,11,1890
+2024-02-01,Andaman & Nicobar Island,2-Wheelers,5,473
+2024-03-01,Maharashtra,2-Wheelers,26668,152563
+2024-03-01,Uttar Pradesh,2-Wheelers,7799,210216
+2024-03-01,Karnataka,2-Wheelers,22742,123800
+2024-03-01,Tamil Nadu,2-Wheelers,13350,124071
+2024-03-01,Rajasthan,2-Wheelers,7933,89538
+2024-03-01,Delhi,2-Wheelers,5002,31599
+2024-03-01,Kerala,2-Wheelers,8393,42909
+2024-03-01,Gujarat,2-Wheelers,8496,94822
+2024-03-01,Bihar,2-Wheelers,2584,102949
+2024-03-01,Madhya Pradesh,2-Wheelers,5772,95405
+2024-03-01,Andhra Pradesh,2-Wheelers,7057,69119
+2024-03-01,Assam,2-Wheelers,767,42612
+2024-03-01,Chhattisgarh,2-Wheelers,3610,46046
+2024-03-01,Punjab,2-Wheelers,1514,35877
+2024-03-01,West Bengal,2-Wheelers,2159,69871
+2024-03-01,Haryana,2-Wheelers,1387,41778
+2024-03-01,Jharkhand,2-Wheelers,824,38149
+2024-03-01,Goa,2-Wheelers,1745,5018
+2024-03-01,Uttarakhand,2-Wheelers,579,12506
+2024-03-01,Jammu and Kashmir,2-Wheelers,297,6600
+2024-03-01,Tripura,2-Wheelers,41,3728
+2024-03-01,Chandigarh,2-Wheelers,215,1525
+2024-03-01,Puducherry,2-Wheelers,477,4337
+2024-03-01,Meghalaya,2-Wheelers,4,2223
+2024-03-01,Himachal Pradesh,2-Wheelers,90,4737
+2024-03-01,Mizoram,2-Wheelers,58,1932
+2024-03-01,DNH and DD,2-Wheelers,25,780
+2024-03-01,Manipur,2-Wheelers,13,1394
+2024-03-01,Andaman & Nicobar Island,2-Wheelers,2,447
+2024-03-01,Nagaland,2-Wheelers,2,1180
